@@ -17,6 +17,8 @@
 # proxyAddress = "::0"        # both IPv4 and IPv6
 # proxyAddress = "0.0.0.0"    # IPv4 only
 
+proxyPort = 8118
+
 # If you do that, you'll want to restrict the set of hosts allowed to
 # connect:
 
@@ -41,6 +43,8 @@
 # socksParentProxy = "localhost:9050"
 # socksProxyType = socks5
 
+socksParentProxy = localhost:9050
+socksProxyType = socks5
 
 ### Memory
 ### ******
@@ -100,6 +104,7 @@
 
 # dnsUseGethostbyname = yes
 
+dnsUseGethostbyname = yes
 
 ### HTTP
 ### ****
@@ -110,11 +115,16 @@
 
 # disableVia=false
 
+disableVia=false
+
 # Uncomment this if you want to slightly reduce the amount of
 # information that you leak about yourself:
 
 # censoredHeaders = from, accept-language
 # censorReferer = maybe
+
+censoredHeaders = from,accept-language,x-pad,link
+censorReferer = maybe
 
 # Uncomment this if you're paranoid.  This will break a lot of sites,
 # though:
@@ -151,8 +161,15 @@
 
 # mindlesslyCacheVary = true
 
-dnsUseGethostbyname = yes
 uncachableFile = "uncachable"
 forbiddenFile = "forbidden"
 diskCacheUnlinkTime = 10d
 dontCacheRedirects = true
+
+maxConnectionAge = 5m
+maxConnectionRequests = 120
+serverMaxSlots = 8
+serverSlots = 2
+tunnelAllowedPorts = 1-65535
+
+#dnsNameServer = 8.8.8.8, 8.8.4.4
