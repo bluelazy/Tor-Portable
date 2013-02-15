@@ -1,0 +1,147 @@
+<!ENTITY torbutton.prefs.title "הגדרות Torbutton">
+<!ENTITY torbutton.prefs.display_settings "הצג הגדרות">
+<!ENTITY torbutton.prefs.display_panel "הצג  הגדרות Tor proxy ">
+<!ENTITY torbutton.prefs.panel_format "פורמט שורת המצב:">
+<!ENTITY torbutton.prefs.panel_text_format "טקסט">
+<!ENTITY torbutton.prefs.panel_icon_format "אייקון">
+<!ENTITY torbutton.prefs.tor_settings "הגדרות פרוקסי">
+<!ENTITY torbutton.prefs.recommended_settings 'השתמש בהגדרות פרוקסי מומלצות עבור גרסת ה"פיירפוקס" שלי'>
+<!ENTITY torbutton.prefs.use_privoxy "השתמש בפריבוקסי">
+<!ENTITY torbutton.prefs.use_polipo "השתמש בפוליפו">
+<!ENTITY torbutton.prefs.custom_settings "השתמש בהגדרות פרוקסי מוגדרות מראש">
+<!ENTITY torbutton.prefs.proxy.host.http "פרוקסי HTTP:">
+<!ENTITY torbutton.prefs.proxy.host.https "פרוקסי SSL:">
+<!ENTITY torbutton.prefs.proxy.host.ftp "פרוקסי FTP:">
+<!ENTITY torbutton.prefs.proxy.host.gopher "Gopher Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.socks "מארח SOCKS:">
+<!ENTITY torbutton.prefs.proxy.port "פורט:">
+<!ENTITY torbutton.about.title "אודות Torbutton">
+<!ENTITY torbutton.about.version "גרסה:">
+<!ENTITY torbutton.about.summary "מגן על הפרטיות של גלישת ה-Tor שלך">
+<!ENTITY torbutton.about.code "Code Contributors:">
+<!ENTITY torbutton.about.maintainer "Maintainer:">
+<!ENTITY torbutton.about.security_review "סיקור אבטחה">
+<!ENTITY torbutton.about.donate "If you like using Tor, you might consider">
+<!ENTITY torbutton.about.make_donation "לתרום">
+<!ENTITY torbutton.pref_connection.notice "השבת את Torbutton על מנת לשנות הגדרות אלו">
+<!ENTITY torbutton.pref_connection.more_info "מידע נוסף">
+<!ENTITY torbutton.pref_connection_more_info.title "עזרה">
+<!ENTITY torbutton.pref_connection_more_info.text "Torbutton פועל כעת. אם ברצונך לשנות את הגדרות הפרוקסי שאינם של Tor, אנא השבת את Torbutton וחזור הנה. אם ברצונך לשנות את הגדרות Tor, אנא השתמש בחלון ההגדרות של Torbutton.">
+<!ENTITY torbutton.context_menu.new_identity "זהות חדשה">
+<!ENTITY torbutton.context_menu.new_identity_key "I">
+<!ENTITY torbutton.context_menu.toggle "להחליף מעמד טור">
+<!ENTITY torbutton.context_menu.toggle.key "T">
+<!ENTITY torbutton.context_menu.preferences "הגדרות">
+<!ENTITY torbutton.context_menu.preferences.key "P">
+<!ENTITY torbutton.context_menu.about "אודות Torbutton...">
+<!ENTITY torbutton.context_menu.about.key "A">
+<!ENTITY torbutton.context_menu.cookieProtections "הגנות קוקיז">
+<!ENTITY torbutton.context_menu.cookieProtections.key "C">
+<!ENTITY torbutton.context_menu.copyTor "העתק את ה-URL של Tor">
+<!ENTITY torbutton.context_menu.copyTor.key "p">
+<!ENTITY torbutton.context_menu.openTorTab "פתח את האתר של Tor בכרטיסייה חדשה">
+<!ENTITY torbutton.context_menu.openTorTab.key "r">
+<!ENTITY torbutton.context_menu.openTorWindow "פתח את האתר של Tor בחלון חדש">
+<!ENTITY torbutton.context_menu.openTorWindow.key "d">
+<!ENTITY torbutton.button.label "Torbutton">
+<!ENTITY torbutton.button.tooltip "לחץ בכדי לאתחל את Torbutton">
+<!ENTITY torbutton.prefs.sec_settings "הגדרות אבטחה">
+<!ENTITY torbutton.prefs.block_thread "חסום קריאות היסטוריה במהלך השימוש ב-Tor (מכריע)">
+<!ENTITY torbutton.prefs.block_thwrite "חסום כתיבות בהיסטוריה בזמן הרצת Tor (מומלץ)">
+<!ENTITY torbutton.prefs.block_nthread "חסום קריאת היסטוריה בזמן גלישה רגילה (אופציונלי)">
+<!ENTITY torbutton.prefs.block_nthwrite "חסום כתיבות היסטוריה בזמן גלישה רגילה (אופציונלי)">
+<!ENTITY torbutton.prefs.clear_history "נקה היסטוריה בטור Toggle (אופציונלי)">
+<!ENTITY torbutton.prefs.clear_cache "חסום את מטמון דיסק Tor ולנקות את כל המטמון Toggle Tor">
+<!ENTITY torbutton.prefs.block_cache "חסום גישה לדיסק ולמטמון בזמן שימוש ב-Tor">
+<!ENTITY torbutton.prefs.cookie_jars " אחסן קוקיז רגילים בהגנה">
+<!ENTITY torbutton.prefs.cookie_protection "בחר בתפריט הגנת הקוקיז על מנת לבחור">
+<!ENTITY torbutton.prefs.mmm_cookies "אני אנהל ידנית את הקוקיז שלי (מסוכן)">
+<!ENTITY torbutton.prefs.clear_cookies "נקה עוגיות על Tor toggle">
+<!ENTITY torbutton.prefs.disable_plugins "השבת פלאגינים בזמן שימוש ב-Tor (מהותי)">
+<!ENTITY torbutton.prefs.kill_bad_js "אתר סקריפטים מסוכנים (מהותי)">
+<!ENTITY torbutton.prefs.isolate_content "Isolate dynamic content to Tor state (crucial)">
+<!ENTITY torbutton.prefs.no_updates "השבת עדכונים בזמן שימוש ב-Tor">
+<!ENTITY torbutton.prefs.set_uagent "הגדרת סוכן משתמש עבור שימוש Tor (חיוני)">
+<!ENTITY torbutton.prefs.dynamic "תוכן דינאמי">
+<!ENTITY torbutton.prefs.cookies "קוקיז">
+<!ENTITY torbutton.prefs.cache "מטמון">
+<!ENTITY torbutton.prefs.history "היסטוריה">
+<!ENTITY torbutton.prefs.no_search "השבת הצעות חיפוש ב-Tor (מומלץ)">
+<!ENTITY torbutton.prefs.shutdown "כיבוי">
+<!ENTITY torbutton.prefs.tor_shutdown "מחק קוקיז של Tor בסגירתו">
+<!ENTITY torbutton.prefs.all_shutdown "נקה קוקיז במהלך סגירה של כל דפדפן">
+<!ENTITY torbutton.prefs.no_shutdown "אל תנקה את הקוקיז שלי בזמן סגירת הדפדפן">
+<!ENTITY torbutton.prefs.disable_sessionstore "ביטול שמירת מושב (מומלץ)">
+<!ENTITY torbutton.prefs.headers "כותרות">
+<!ENTITY torbutton.prefs.spoof_english 'דפדפן אנגלית לזייף ארה"ב'>
+<!ENTITY torbutton.prefs.refererspoofing "זיוף Referer">
+<!ENTITY torbutton.prefs.spoofblank "Spoof blank referer during Tor usage (may break some sites)">
+<!ENTITY torbutton.prefs.smartspoof "לזייף referer חכם במהלך שימוש טור (משייכי מזייף צולב דומיין)">
+<!ENTITY torbutton.prefs.nospoof "No referer spoof during Tor usage (sends referers as normal)">
+<!ENTITY torbutton.prefs.disable_domstorage "Disable DOM Storage during Tor usage (crucial)">
+<!ENTITY torbutton.prefs.forms "טפסים">
+<!ENTITY torbutton.prefs.block_tforms "חסום שמירה של סיסמאות וטפסים במהלך Tor (מומלץ)">
+<!ENTITY torbutton.prefs.block_ntforms "חסום שמירה של סיסמאות וטפסים במהלך שימוש שאינו של Tor (מומלץ)">
+<!ENTITY torbutton.prefs.tor "Tor">
+<!ENTITY torbutton.prefs.non_tor "לא של Tor">
+<!ENTITY torbutton.prefs.restore_tor "On session restored startup, set Tor state to:">
+<!ENTITY torbutton.prefs.startup_tor "בהפעלת הדפדפן, קבע את המצב של Tor ל:">
+<!ENTITY torbutton.prefs.reload_crashed_jar "Reload cookie jar/clear cookies on Firefox crash (recommended)">
+<!ENTITY torbutton.prefs.dual_cookie_jars "Store both Tor and Non-Tor cookies in protected jars (dangerous)">
+<!ENTITY torbutton.prefs.clear_http_auth "Clear HTTP auth sessions (recommended)">
+<!ENTITY torbutton.prefs.block_js_history "Isolate access to history navigation to Tor state (crucial)">
+<!ENTITY torbutton.prefs.resize_on_toggle "Resize windows to multiples of 50px during Tor usage (recommended)">
+<!ENTITY torbutton.prefs.close_tor "Close all Tor windows and tabs on toggle (optional)">
+<!ENTITY torbutton.prefs.close_nontor "Close all Non-Tor windows and tabs on toggle (optional)">
+<!ENTITY torbutton.prefs.block_links "Block link clicks and page reloads from different Tor states (optional)">
+<!ENTITY torbutton.prefs.jar_certs "Store SSL certs in seperate jars for Tor/Non-Tor (recommended)">
+<!ENTITY torbutton.prefs.jar_ca_certs "Store CA certs in seperate jars for Tor/Non-Tor (recommended)">
+<!ENTITY torbutton.prefs.locked_mode "Disable Button and Hotkeys to prevent accidental toggle">
+<!ENTITY torbutton.prefs.startup_state "On normal startup, set Tor state to:">
+<!ENTITY torbutton.prefs.shutdown_state "Shutdown state">
+<!ENTITY torbutton.prefs.startup "הפעלה">
+<!ENTITY torbutton.prefs.block_tor_file_net "חסום גישת Tor לרשת מכתובות file:// (מומלץ)">
+<!ENTITY torbutton.prefs.block_nontor_file_net "חסום גישה לא של Tor לרשת מכתובות file://">
+<!ENTITY torbutton.prefs.restore_defaults "חזרה לברירת מחדל">
+<!ENTITY torbutton.prefs.test_settings "בחן הגדרות">
+<!ENTITY torbutton.prefs.test_auto "Test my Tor settings after the first time I toggle on every Firefox start">
+<!ENTITY torbutton.prefs.disable_livemarks "Disable livemarks updates during Tor usage">
+<!ENTITY torbutton.prefs.tor_memory_jar "אל תכתוב קוקיז של Tor לדיסק הקשיח">
+<!ENTITY torbutton.prefs.nontor_memory_jar "אל תכתוב קוקיז לא של Tor לדיסק הקשיח">
+<!ENTITY torbutton.prefs.session_restore "Have the session store save and restore these tabs:">
+<!ENTITY torbutton.prefs.nontor_tabs "כרטיסיות טעונות לא ב-Tor">
+<!ENTITY torbutton.prefs.tor_tabs "כרטיסיות טעונות ב-Tor">
+<!ENTITY torbutton.prefs.socks_vfour "SOCKS v4">
+<!ENTITY torbutton.prefs.socks_vfive "SOCKS v5">
+<!ENTITY torbutton.prefs.no_proxies_on "אין פרוקסים עבור:">
+<!ENTITY torbutton.prefs.no_proxy_warning "Warning: Avoid using any hostnames above">
+<!ENTITY torbutton.prefs.spoofreresh "Spoof Refresh">
+<!ENTITY torbutton.prefs.refereroptions "Referer Spoofing Options">
+<!ENTITY torbutton.prefs.nospoof "לא לזייף מפנה במהלך שימוש תור (שולח משייכים כרגיל)">
+<!ENTITY torbutton.prefs.spoofroot "Spoof the containing folder of the page">
+<!ENTITY torbutton.prefs.spoofdomain "Spoof the domain as referer">
+<!ENTITY torbutton.prefs.spoofblank "Make referer blank">
+<!ENTITY torbutton.cookiedialog.title "נהל הגנות קוקיז">
+<!ENTITY torbutton.cookiedialog.lockCol "מוגן">
+<!ENTITY torbutton.cookiedialog.domainCol "Host">
+<!ENTITY torbutton.cookiedialog.nameCol "שם">
+<!ENTITY torbutton.cookiedialog.pathCol "מעבר">
+<!ENTITY torbutton.cookiedialog.protectCookie "הגן על הקוקי">
+<!ENTITY torbutton.cookiedialog.removeCookie "מחק את הקוקי">
+<!ENTITY torbutton.cookiedialog.unprotectCookie "אל תגן על הקוקי">
+<!ENTITY torbutton.cookiedialog.removeAllBut "מחק את כל הקוקיז הלא מוגנים">
+<!ENTITY torbutton.cookiedialog.saveAllCookies "הגן על קוקיז חדשים">
+<!ENTITY torbutton.cookiedialog.doNotSaveAllCookies "אל תגן על קוקיז חדשים">
+<!ENTITY torbutton.prefs.disable_livemarks "Disable Livemark updates during Tor usage">
+<!ENTITY torbutton.prefs.dtd_recommended "(מומלץ)">
+<!ENTITY torbutton.prefs.dtd_optional "(אופציונלי)">
+<!ENTITY torbutton.prefs.dtd_crucial "(מהותי)">
+<!ENTITY torbutton.prefs.update_torbutton_via_tor "הורד עדכונים ל-Torbutton דרך Tor">
+<!ENTITY torbutton.prefs.dodge_google_captcha "Automatically use an alternate search engine when presented with a Google Captcha:">
+<!ENTITY torbutton.prefs.engine1 "ixquick.com">
+<!ENTITY torbutton.prefs.engine2 "Bing.com">
+<!ENTITY torbutton.prefs.engine3 "Yahoo.com">
+<!ENTITY torbutton.prefs.engine4 "startpage.com">
+<!ENTITY torbutton.prefs.engine5 "duckduckgo.com">
+<!ENTITY torbutton.prefs.fix_google_srch "Strip platform and language off of Google Search Box queries">
+<!ENTITY torbutton.prefs.transparentTor "Transparent Torification (Requires custom transproxy or Tor router)">

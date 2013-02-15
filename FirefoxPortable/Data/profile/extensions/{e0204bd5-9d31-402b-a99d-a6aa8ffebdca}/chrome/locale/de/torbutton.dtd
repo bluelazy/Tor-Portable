@@ -1,0 +1,147 @@
+<!ENTITY torbutton.prefs.title "Einstellungen für Torbutton">
+<!ENTITY torbutton.prefs.display_settings "Anzeige-Einstellungen">
+<!ENTITY torbutton.prefs.display_panel "Zeige Einstellung für den Tor-Proxy in der Statusleiste an">
+<!ENTITY torbutton.prefs.panel_format "Anzeigeformat der Statusleiste">
+<!ENTITY torbutton.prefs.panel_text_format "Text">
+<!ENTITY torbutton.prefs.panel_icon_format "Symbol">
+<!ENTITY torbutton.prefs.tor_settings "Proxy-Einstellungen">
+<!ENTITY torbutton.prefs.recommended_settings "Benutze die empfohlenen Proxy-Einstellungen für meine Firefox-Version">
+<!ENTITY torbutton.prefs.use_privoxy "Privoxy verwenden">
+<!ENTITY torbutton.prefs.use_polipo "Polipo verwenden">
+<!ENTITY torbutton.prefs.custom_settings "Individuelle Proxy-Einstellungen verwenden">
+<!ENTITY torbutton.prefs.proxy.host.http "HTTP-Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.https "SSL-Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.ftp "FTP-Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.gopher "Gopher-Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.socks "SOCKS-Host:">
+<!ENTITY torbutton.prefs.proxy.port "Port:">
+<!ENTITY torbutton.about.title "Über Torbutton">
+<!ENTITY torbutton.about.version "Version:">
+<!ENTITY torbutton.about.summary "Schützt die Privatsphäre deines Tor-Browsings.">
+<!ENTITY torbutton.about.code "Code Beitragende:">
+<!ENTITY torbutton.about.maintainer "Maintainer:">
+<!ENTITY torbutton.about.security_review "Sicherheitsüberprüfung:">
+<!ENTITY torbutton.about.donate "Wenn du es magst, Tor zu benutzen, ziehst du vielleicht in betracht">
+<!ENTITY torbutton.about.make_donation "zu spenden.">
+<!ENTITY torbutton.pref_connection.notice "Deaktivieren Sie Torbutton, um diese Einstellungen zu verändern.">
+<!ENTITY torbutton.pref_connection.more_info "Mehr Informationen">
+<!ENTITY torbutton.pref_connection_more_info.title "Hilfe">
+<!ENTITY torbutton.pref_connection_more_info.text "Torbutten ist momentan aktiv. Wenn Sie die Proxy-Einstellungen für den Betrieb ohne Tor ändern möchten, deaktivieren Sie bitte zuerst Torbutton. Für Änderungen der Tor-Einstellungen verwenden Sie bitte das Fenster &quot;Torbutton-Einstellungen&quot;.">
+<!ENTITY torbutton.context_menu.new_identity "Neue Identität">
+<!ENTITY torbutton.context_menu.new_identity_key "I">
+<!ENTITY torbutton.context_menu.toggle "Tor-Modus umschalten">
+<!ENTITY torbutton.context_menu.toggle.key "T">
+<!ENTITY torbutton.context_menu.preferences "Einstellungen...">
+<!ENTITY torbutton.context_menu.preferences.key "P">
+<!ENTITY torbutton.context_menu.about "Über Torbutton...">
+<!ENTITY torbutton.context_menu.about.key "A">
+<!ENTITY torbutton.context_menu.cookieProtections "Cookie Schutzvorkehrungen">
+<!ENTITY torbutton.context_menu.cookieProtections.key "C">
+<!ENTITY torbutton.context_menu.copyTor "Tor-URL kopieren">
+<!ENTITY torbutton.context_menu.copyTor.key "p">
+<!ENTITY torbutton.context_menu.openTorTab "Tor-URL in neuem Tab öffnen">
+<!ENTITY torbutton.context_menu.openTorTab.key "r">
+<!ENTITY torbutton.context_menu.openTorWindow "Tor-URL in neuem Fenster öffnen">
+<!ENTITY torbutton.context_menu.openTorWindow.key "d">
+<!ENTITY torbutton.button.label "Torbutton">
+<!ENTITY torbutton.button.tooltip "Klicken, um Torbutton zu aktivieren">
+<!ENTITY torbutton.prefs.sec_settings "Sicherheitseinstellungen">
+<!ENTITY torbutton.prefs.block_thread "Lesen von Einträgen der besuchten Seiten (History) während der Benutzung von Tor verhindern (wichtig)">
+<!ENTITY torbutton.prefs.block_thwrite "Schreiben von Einträgen der besuchten Seiten (History) während der Benutzung von Tor verhindern (empfohlen)">
+<!ENTITY torbutton.prefs.block_nthread "Lesen von Einträgen der besuchten Seiten (History) außerhalb der Benutzung von Tor verhindern (optional)">
+<!ENTITY torbutton.prefs.block_nthwrite "Schreiben von Einträgen der besuchten Seiten (History) außerhalb der Benutzung von Tor verhindern (optional)">
+<!ENTITY torbutton.prefs.clear_history "Informationen zu besuchten Seiten (History) bei An- und Abschalten von Tor löschen (optional)">
+<!ENTITY torbutton.prefs.clear_cache "Zugriff auf Festplatten-Cache verhindern und Cache-Informationen bei An- und Abschalten von Tor löschen">
+<!ENTITY torbutton.prefs.block_cache "Verhindere den Zugriff auf Festplatten- und Speicher-Cache während Tor aktiviert ist">
+<!ENTITY torbutton.prefs.cookie_jars "Speichern von Cookies, die nicht zu Tor gehören in einer gesicherten jar-Datei">
+<!ENTITY torbutton.prefs.cookie_protection "Verwende den Cookie Schutzdialog um zu wählen">
+<!ENTITY torbutton.prefs.mmm_cookies "Ich verwalte meine Cookies manuell (gefährlich)">
+<!ENTITY torbutton.prefs.clear_cookies "Cookies beim An- und Abschalten von Tor löschen">
+<!ENTITY torbutton.prefs.disable_plugins "Plugins während der Benutzung von Tor deaktivieren (wichtig)">
+<!ENTITY torbutton.prefs.kill_bad_js "Gefährliches JavaScript kontrollieren (wichtig)">
+<!ENTITY torbutton.prefs.isolate_content "Dynamisch generierte Daten während der Benutzung von Tor separieren (wichtig)">
+<!ENTITY torbutton.prefs.no_updates "Deaktiviere Updates während der Benutzung von Tor">
+<!ENTITY torbutton.prefs.set_uagent "Browser-Bezeichnung während der Benutzung von Tor umstellen (wichtig)">
+<!ENTITY torbutton.prefs.dynamic "Dynamisch generierte Inhalte">
+<!ENTITY torbutton.prefs.cookies "Cookies">
+<!ENTITY torbutton.prefs.cache "Cache">
+<!ENTITY torbutton.prefs.history "Verlauf">
+<!ENTITY torbutton.prefs.no_search "Such-Vorschläge während Tor-Benutzung abschalten (empfohlen)">
+<!ENTITY torbutton.prefs.shutdown "Herunterfahren">
+<!ENTITY torbutton.prefs.tor_shutdown "Cookies beim Beenden des Browsers löschen (wenn Tor aktiv ist)">
+<!ENTITY torbutton.prefs.all_shutdown "Cookies beim Beenden des Browsers löschen (immer)">
+<!ENTITY torbutton.prefs.no_shutdown "Cookies beim Beenden des Browers nicht löschen">
+<!ENTITY torbutton.prefs.disable_sessionstore "Speichern des Browserzustandes zwischen Programmaufrufen deaktivieren (empfohlen)">
+<!ENTITY torbutton.prefs.headers "Überschriften">
+<!ENTITY torbutton.prefs.spoof_english "Englischen Browser (US) vortäuschen">
+<!ENTITY torbutton.prefs.refererspoofing "Absender tarnen">
+<!ENTITY torbutton.prefs.spoofblank "Spoof blank referer during Tor usage (may break some sites)">
+<!ENTITY torbutton.prefs.smartspoof "Smarte Absendertarnung während der Tor-Sitzung (Vortäuschung verschiedener Domainabsender)">
+<!ENTITY torbutton.prefs.nospoof "No referer spoof during Tor usage (sends referers as normal)">
+<!ENTITY torbutton.prefs.disable_domstorage "Deaktiviere die DOM-Speicherung während der Benutzung von Tor (wichtig)">
+<!ENTITY torbutton.prefs.forms "Formulare">
+<!ENTITY torbutton.prefs.block_tforms "Speichern von Passwörten und Formularen während Benutzung von Tor deaktivieren (empfohlen)">
+<!ENTITY torbutton.prefs.block_ntforms "Speichern von Passwörten und Formularen generell deaktivieren (optional)">
+<!ENTITY torbutton.prefs.tor "Tor">
+<!ENTITY torbutton.prefs.non_tor "Nicht-Tor">
+<!ENTITY torbutton.prefs.restore_tor "Setze Tor-Modus bei Session-Wiederherstellung zu:">
+<!ENTITY torbutton.prefs.startup_tor "Bei Browser-Start, setze Tor-Status auf:">
+<!ENTITY torbutton.prefs.reload_crashed_jar "Lade die Cookiedatei/Lösche Cookies beim Absturz (empfohlen)">
+<!ENTITY torbutton.prefs.dual_cookie_jars "Speichere alle Cookies (Verbindungen über Tor oder nicht) in geschützten Dateien (gefährlich)">
+<!ENTITY torbutton.prefs.clear_http_auth "Lösche Sitzungen mit Authentifizierung (empfohlen)">
+<!ENTITY torbutton.prefs.block_js_history "Isoliere den Zugriff zur Verlaufsnavigation (wichtig)">
+<!ENTITY torbutton.prefs.resize_on_toggle "Verändere die Größe des Fensters zu einem Vielfachen von 50px während der Nutzung von Tor (empfohlen)">
+<!ENTITY torbutton.prefs.close_tor "Schließe alle Tor-Fenster und -Tabs beim Wechsel (optional)">
+<!ENTITY torbutton.prefs.close_nontor "Schließe alle Nicht-Tor-Fenster und -Tabs beim Wechsel (optional)">
+<!ENTITY torbutton.prefs.block_links "Sperre Klicks auf Links und Neuladen von Seiten von verschiedenen Tor-Modi (optional)">
+<!ENTITY torbutton.prefs.jar_certs "Speichere SSL-Zertifikate in verschiedenen Dateien für Tor/Nicht-Tor (empfohlen)">
+<!ENTITY torbutton.prefs.jar_ca_certs "Speichere CA-Zertifikate in verschiedenen Dateien für Tor/Nicht-Tor (empfohlen)">
+<!ENTITY torbutton.prefs.locked_mode "Deaktiviere den Knopf und Tastenkürzel, um versehentliches Umschalten zu vermeiden.">
+<!ENTITY torbutton.prefs.startup_state "Setze Tor-Modus bei normalen Start auf:">
+<!ENTITY torbutton.prefs.shutdown_state "Modus beim letzten Beenden">
+<!ENTITY torbutton.prefs.startup "Start-Up">
+<!ENTITY torbutton.prefs.block_tor_file_net "Sperre den Zugriff zum Netzwerk von file://-URLS (empfohlen)">
+<!ENTITY torbutton.prefs.block_nontor_file_net "Sperre den Zugriff zum Netzwerk von file://-URLs bei deaktiviertem Tor">
+<!ENTITY torbutton.prefs.restore_defaults "Stelle Einstellungen zurück auf Standard">
+<!ENTITY torbutton.prefs.test_settings "Teste Einstellungen">
+<!ENTITY torbutton.prefs.test_auto "Teste meine Einstellungen nach dem ersten Umschalten bei jedem Firefox-Start">
+<!ENTITY torbutton.prefs.disable_livemarks "Disable livemarks updates during Tor usage">
+<!ENTITY torbutton.prefs.tor_memory_jar "Schreibe im Tor-Modus keine Cookies auf die Festplatte">
+<!ENTITY torbutton.prefs.nontor_memory_jar "Schreibe im Nicht-Tor-Modus keine Cookies auf die Festplatte">
+<!ENTITY torbutton.prefs.session_restore "Der Sessionmanager soll diese Tabs sichern und wiederherstellen.">
+<!ENTITY torbutton.prefs.nontor_tabs "Im Nicht-Tor-Modus geladene Tabs">
+<!ENTITY torbutton.prefs.tor_tabs "Im Tor-Modus geladene Tabs">
+<!ENTITY torbutton.prefs.socks_vfour "SOCKS v4">
+<!ENTITY torbutton.prefs.socks_vfive "SOCKS v5">
+<!ENTITY torbutton.prefs.no_proxies_on "Keine Proxies für: ">
+<!ENTITY torbutton.prefs.no_proxy_warning "Warnung: Vermeiden Sie es, oben irgendwelche Host Namen zu verwenden">
+<!ENTITY torbutton.prefs.spoofreresh "Aktualisiere Tarnung">
+<!ENTITY torbutton.prefs.refereroptions " Einstellungen Absendertarnung">
+<!ENTITY torbutton.prefs.nospoof "Tarne nicht den Absender">
+<!ENTITY torbutton.prefs.spoofroot "Tarne den enthaltenen Ordner auf der Seite">
+<!ENTITY torbutton.prefs.spoofdomain "Tarne die Domain als Absender">
+<!ENTITY torbutton.prefs.spoofblank "Leeren Absender erstellen ">
+<!ENTITY torbutton.cookiedialog.title "Verwalte Cookie-Schutz">
+<!ENTITY torbutton.cookiedialog.lockCol "Geschützt">
+<!ENTITY torbutton.cookiedialog.domainCol "Host">
+<!ENTITY torbutton.cookiedialog.nameCol "Name">
+<!ENTITY torbutton.cookiedialog.pathCol "Pfad">
+<!ENTITY torbutton.cookiedialog.protectCookie "Cookie schützen">
+<!ENTITY torbutton.cookiedialog.removeCookie "Cookie entfernen">
+<!ENTITY torbutton.cookiedialog.unprotectCookie "Cookie nicht schützen">
+<!ENTITY torbutton.cookiedialog.removeAllBut "Entferne alle, außer die geschützten">
+<!ENTITY torbutton.cookiedialog.saveAllCookies "Schütze neue Cookies">
+<!ENTITY torbutton.cookiedialog.doNotSaveAllCookies "Schütze nicht neue Cookies">
+<!ENTITY torbutton.prefs.disable_livemarks "Aktualisierungen von Livemarks während der Benutzung von Tor deaktivieren.">
+<!ENTITY torbutton.prefs.dtd_recommended "(empfohlen)">
+<!ENTITY torbutton.prefs.dtd_optional "(optional)">
+<!ENTITY torbutton.prefs.dtd_crucial "(kritisch)">
+<!ENTITY torbutton.prefs.update_torbutton_via_tor "Aktualisierung von Torbutton nur über das Tor Netzwerk">
+<!ENTITY torbutton.prefs.dodge_google_captcha "Automatisch eine andere Suchmaschine benutzen, wenn Google ein Captcha abfragen will:">
+<!ENTITY torbutton.prefs.engine1 "ixquick.com">
+<!ENTITY torbutton.prefs.engine2 "Bing.com">
+<!ENTITY torbutton.prefs.engine3 "Yahoo.com">
+<!ENTITY torbutton.prefs.engine4 "startpage.com">
+<!ENTITY torbutton.prefs.engine5 "duckduckgo.com">
+<!ENTITY torbutton.prefs.fix_google_srch "Betriebssystem und Sprache bei Google Suchabfragen nicht übermitteln">
+<!ENTITY torbutton.prefs.transparentTor "Transparente Torification (Erfordert eigenen Transproxy oder Tor-Router)">

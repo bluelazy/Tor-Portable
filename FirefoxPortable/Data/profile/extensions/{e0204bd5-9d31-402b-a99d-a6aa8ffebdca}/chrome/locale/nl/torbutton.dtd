@@ -1,0 +1,147 @@
+<!ENTITY torbutton.prefs.title "Torbutton voorkeuren">
+<!ENTITY torbutton.prefs.display_settings "Weergave-instellingen">
+<!ENTITY torbutton.prefs.display_panel "Tor proxy-instelling weergeven in de statusbalk">
+<!ENTITY torbutton.prefs.panel_format "Weergave in statusbalk:">
+<!ENTITY torbutton.prefs.panel_text_format "Tekst">
+<!ENTITY torbutton.prefs.panel_icon_format "Pictogram">
+<!ENTITY torbutton.prefs.tor_settings "Proxy-instellingen">
+<!ENTITY torbutton.prefs.recommended_settings "De aanbevolen proxy-instellingen voor mijn versie van Firefox gebruiken">
+<!ENTITY torbutton.prefs.use_privoxy "Privoxy gebruiken">
+<!ENTITY torbutton.prefs.use_polipo "Polipo gebruiken">
+<!ENTITY torbutton.prefs.custom_settings "Aangepaste proxy-instellingen gebruiken">
+<!ENTITY torbutton.prefs.proxy.host.http "HTTP proxy:">
+<!ENTITY torbutton.prefs.proxy.host.https "SSL proxy:">
+<!ENTITY torbutton.prefs.proxy.host.ftp "FTP proxy:">
+<!ENTITY torbutton.prefs.proxy.host.gopher "Gopher proxy:">
+<!ENTITY torbutton.prefs.proxy.host.socks "SOCKS host:">
+<!ENTITY torbutton.prefs.proxy.port "Poort:">
+<!ENTITY torbutton.about.title "Over Torbutton">
+<!ENTITY torbutton.about.version "Versie:">
+<!ENTITY torbutton.about.summary "Beveiligt de privacy van jouw Tor browsen.">
+<!ENTITY torbutton.about.code "Code medewerkers:">
+<!ENTITY torbutton.about.maintainer "Beheerder:">
+<!ENTITY torbutton.about.security_review "Beveiligingscontrole:">
+<!ENTITY torbutton.about.donate "Als je graag Tor gebruikt, kun je misschien ook">
+<!ENTITY torbutton.about.make_donation "een donatie maken.">
+<!ENTITY torbutton.pref_connection.notice "Torbutton dient uitgeschakeld te worden om deze instellingen te kunnen wijzigen.">
+<!ENTITY torbutton.pref_connection.more_info "Meer informatie">
+<!ENTITY torbutton.pref_connection_more_info.title "Help">
+<!ENTITY torbutton.pref_connection_more_info.text "Torbutton is momenteel ingeschakeld. Als u uw niet aan Tor gerelateerde proxy-instellingen wilt wijzigen dient u Torbutton uit te schakelen en dan hier terug te komen. Als u uw Tor instellingen wilt wijzigen, gebruik dan het Torbutton Voorkeuren-venster.">
+<!ENTITY torbutton.context_menu.new_identity "Nieuwe identiteit">
+<!ENTITY torbutton.context_menu.new_identity_key "I">
+<!ENTITY torbutton.context_menu.toggle "Tor status wisselen">
+<!ENTITY torbutton.context_menu.toggle.key "W">
+<!ENTITY torbutton.context_menu.preferences "Voorkeuren...">
+<!ENTITY torbutton.context_menu.preferences.key "V">
+<!ENTITY torbutton.context_menu.about "Over Torbutton...">
+<!ENTITY torbutton.context_menu.about.key "O">
+<!ENTITY torbutton.context_menu.cookieProtections "Cookie Beveiligingen">
+<!ENTITY torbutton.context_menu.cookieProtections.key "C">
+<!ENTITY torbutton.context_menu.copyTor "Kopieer Tor URL">
+<!ENTITY torbutton.context_menu.copyTor.key "P">
+<!ENTITY torbutton.context_menu.openTorTab "Open Tor URL in nieuwe Tab">
+<!ENTITY torbutton.context_menu.openTorTab.key "r">
+<!ENTITY torbutton.context_menu.openTorWindow "Open Tor URL in nieuw venster">
+<!ENTITY torbutton.context_menu.openTorWindow.key "d">
+<!ENTITY torbutton.button.label "Torbutton">
+<!ENTITY torbutton.button.tooltip "Klik hier om Torbutton te initialiseren">
+<!ENTITY torbutton.prefs.sec_settings "Beveiligingsinstellingen">
+<!ENTITY torbutton.prefs.block_thread "Blokkeer het lezen van de geschiedenis met Tor (cruciaal)">
+<!ENTITY torbutton.prefs.block_thwrite "Blokkeer het schrijven van de geschiedenis met Tor (aangeraden)">
+<!ENTITY torbutton.prefs.block_nthread "Blokkeer het lezen van de geschiedenis zonder Tor (optioneel)">
+<!ENTITY torbutton.prefs.block_nthwrite "Blokkeer het schrijven van de geschiedenis zonder Tor (optioneel)">
+<!ENTITY torbutton.prefs.clear_history "Verwijder de geschiedenis bij Tor-wissel (optioneel)">
+<!ENTITY torbutton.prefs.clear_cache "Blokkeer Tor schijf-cache en verwijder alle cachebestanden bij Tor-wissel">
+<!ENTITY torbutton.prefs.block_cache "Blokkeer Tor schijf- en geheugencache">
+<!ENTITY torbutton.prefs.cookie_jars "Sla de niet-Tor cookies op op een beveiligde plaats">
+<!ENTITY torbutton.prefs.cookie_protection "Gebruik het Cookie Beveiligingen dialoogvenster om te kiezen.">
+<!ENTITY torbutton.prefs.mmm_cookies "Ik beheer de cookies handmatig (gevaarlijk)">
+<!ENTITY torbutton.prefs.clear_cookies "Verwijder de cookies bij in/uitschakelen van Tor">
+<!ENTITY torbutton.prefs.disable_plugins "Gebruik geen plug-ins tijdens Tor (cruciaal)">
+<!ENTITY torbutton.prefs.kill_bad_js "Pas gevaarlijke javascripts aan (cruciaal)">
+<!ENTITY torbutton.prefs.isolate_content "Isoleer dynamische inhoud binnen de Tor status (cruciaal)">
+<!ENTITY torbutton.prefs.no_updates "Schakel updates uit tijdens gebruik van Tor">
+<!ENTITY torbutton.prefs.set_uagent "Stel de user agent voor Torgebruik in (cruciaal)">
+<!ENTITY torbutton.prefs.dynamic "Dynamische inhoud">
+<!ENTITY torbutton.prefs.cookies "Cookies">
+<!ENTITY torbutton.prefs.cache "Cache">
+<!ENTITY torbutton.prefs.history "Geschiedenis">
+<!ENTITY torbutton.prefs.no_search "Zoeken uitschakelen tijdens Tor (aanbevolen)">
+<!ENTITY torbutton.prefs.shutdown "Uitschakelen">
+<!ENTITY torbutton.prefs.tor_shutdown "Verwijder Tor cookies na afsluiten van een Tor browsersessie">
+<!ENTITY torbutton.prefs.all_shutdown "Verwijder cookies na afsluiten van elke browsersessie">
+<!ENTITY torbutton.prefs.no_shutdown "Verwijder mijn cookies niet na het afsluiten">
+<!ENTITY torbutton.prefs.disable_sessionstore "Schakel sessie opslaan uit (aanbevolen)">
+<!ENTITY torbutton.prefs.headers "Headers">
+<!ENTITY torbutton.prefs.spoof_english "Imiteer een US Engelse browser">
+<!ENTITY torbutton.prefs.refererspoofing "Verwijzer spoofing">
+<!ENTITY torbutton.prefs.spoofblank "Spoof blank referer during Tor usage (may break some sites)">
+<!ENTITY torbutton.prefs.smartspoof "Slimme verwijzer spoofing tijdens Tor gebruik (spoofs cross-domain verwijzers)">
+<!ENTITY torbutton.prefs.nospoof "No referer spoof during Tor usage (sends referers as normal)">
+<!ENTITY torbutton.prefs.disable_domstorage "Verhinder DOM opslag tijdens Tor gebruik (cruciaal)">
+<!ENTITY torbutton.prefs.forms "Formulieren">
+<!ENTITY torbutton.prefs.block_tforms "Blokkeer het opslaan van het formulierpaswoord tijdens Tor gebruik (aanbevolen)">
+<!ENTITY torbutton.prefs.block_ntforms "Blokkeer het opslaan van het formulierpaswoord buiten het Tor gebruik (optioneel)">
+<!ENTITY torbutton.prefs.tor "Tor">
+<!ENTITY torbutton.prefs.non_tor "niet Tor">
+<!ENTITY torbutton.prefs.restore_tor "Bij opstart met sessieherstel, stel de Tor status in als : ">
+<!ENTITY torbutton.prefs.startup_tor "Bij Browser opstart, zet Tor status naar:">
+<!ENTITY torbutton.prefs.reload_crashed_jar "Herlaad de cookie ruimte/verwijder de cookies bij een Firefox crash (aanbevolen)">
+<!ENTITY torbutton.prefs.dual_cookie_jars "Sla zowel Tor- als niet-Torcookies op in beschermde ruimtes (gevaarlijk)">
+<!ENTITY torbutton.prefs.clear_http_auth "Verwijder HTTP-geauthoriseerde sessies (aanbevolen)">
+<!ENTITY torbutton.prefs.block_js_history "Isoleer toegang tot de navigatiegeschiedenis bij Tor (cruciaal)">
+<!ENTITY torbutton.prefs.resize_on_toggle "Verander de grootte van de schermen tot veelvouden van 50 punten bij Tor gebruik (aanbevolen)">
+<!ENTITY torbutton.prefs.close_tor "Sluit alle Tor schermen en tabs bij wissel (optioneel)">
+<!ENTITY torbutton.prefs.close_nontor "Sluit alle niet-Tor schermen en tabs bij wissel (optioneel)">
+<!ENTITY torbutton.prefs.block_links "Blokkeer links en paginavernieuwingen tussen verschillen Tor toestanden (optioneel)">
+<!ENTITY torbutton.prefs.jar_certs "Sla SSL-certificaten op in afzonderlijke ruimtes voor Tor/niet-Tor (aanbevolen)">
+<!ENTITY torbutton.prefs.jar_ca_certs "Sla CA-certificaten op in afzonderlijke ruimtes voor Tor/niet-Tor (aanbevolen)">
+<!ENTITY torbutton.prefs.locked_mode "Blokkeer knop en sneltoetsen om toevallige wissel te vermijden">
+<!ENTITY torbutton.prefs.startup_state "Zet de toestand bij normale start op :">
+<!ENTITY torbutton.prefs.shutdown_state "Toestand bij afsluiten">
+<!ENTITY torbutton.prefs.startup "Opstarten">
+<!ENTITY torbutton.prefs.block_tor_file_net "Blokkeer Tor-toegang tot file:// urls (aanbevolen)">
+<!ENTITY torbutton.prefs.block_nontor_file_net "Blokkeer niet-Tor-toegang tot file:// urls">
+<!ENTITY torbutton.prefs.restore_defaults "Terugzetten op begintoestand">
+<!ENTITY torbutton.prefs.test_settings "Testen van de instellingen">
+<!ENTITY torbutton.prefs.test_auto "Testen van de Tor-instellingen de eerste wissel na elke Firefoxstart">
+<!ENTITY torbutton.prefs.disable_livemarks "Disable livemarks updates during Tor usage">
+<!ENTITY torbutton.prefs.tor_memory_jar "Geen Tor cookies op de schijf opslaan">
+<!ENTITY torbutton.prefs.nontor_memory_jar "Geen niet-Tor cookies op de schijf opslaan">
+<!ENTITY torbutton.prefs.session_restore "Volgende tabs door sessiebeheer opslaan en herstellen : ">
+<!ENTITY torbutton.prefs.nontor_tabs "Tabs geladen in niet-Tor">
+<!ENTITY torbutton.prefs.tor_tabs "Tabs geladen in Tor">
+<!ENTITY torbutton.prefs.socks_vfour "SOCKS v4">
+<!ENTITY torbutton.prefs.socks_vfive "SOCKS v5">
+<!ENTITY torbutton.prefs.no_proxies_on "Geen proxy voor: ">
+<!ENTITY torbutton.prefs.no_proxy_warning "Opgelet: gebruik van bovenstaande hostnamen vermijden">
+<!ENTITY torbutton.prefs.spoofreresh "Spoof Vernieuwen">
+<!ENTITY torbutton.prefs.refereroptions "Verwijzer Spoof instellingen">
+<!ENTITY torbutton.prefs.nospoof "Spoof verwijzer niet">
+<!ENTITY torbutton.prefs.spoofroot "Spoof de bovenliggende folder van de pagina">
+<!ENTITY torbutton.prefs.spoofdomain "Spoof het domein als verwijzer">
+<!ENTITY torbutton.prefs.spoofblank "Maak verwijzer leeg">
+<!ENTITY torbutton.cookiedialog.title "Beheer Cookie Beveiligingen">
+<!ENTITY torbutton.cookiedialog.lockCol "Beveiligd">
+<!ENTITY torbutton.cookiedialog.domainCol "Host">
+<!ENTITY torbutton.cookiedialog.nameCol "Naam">
+<!ENTITY torbutton.cookiedialog.pathCol "Pad">
+<!ENTITY torbutton.cookiedialog.protectCookie "Beveilig Cookie">
+<!ENTITY torbutton.cookiedialog.removeCookie "Verwijder Cookie">
+<!ENTITY torbutton.cookiedialog.unprotectCookie "Hef Cookie beveiliging op.">
+<!ENTITY torbutton.cookiedialog.removeAllBut "Verwijder alle behalve beveiligde">
+<!ENTITY torbutton.cookiedialog.saveAllCookies "Beveilig nieuwe Cookies">
+<!ENTITY torbutton.cookiedialog.doNotSaveAllCookies "Beveilig nieuwe Cookies niet">
+<!ENTITY torbutton.prefs.disable_livemarks "Livemark-updates tijdens Tor verhinderen">
+<!ENTITY torbutton.prefs.dtd_recommended "(aanbevolen)">
+<!ENTITY torbutton.prefs.dtd_optional "(optioneel)">
+<!ENTITY torbutton.prefs.dtd_crucial "(cruciaal)">
+<!ENTITY torbutton.prefs.update_torbutton_via_tor "Torbutton enkel via Tor updaten">
+<!ENTITY torbutton.prefs.dodge_google_captcha "Automatisch een alternatieve zoekmachine gebruiken bij een Google Captcha:">
+<!ENTITY torbutton.prefs.engine1 "ixquick.com">
+<!ENTITY torbutton.prefs.engine2 "Bing.com">
+<!ENTITY torbutton.prefs.engine3 "Yahoo.com">
+<!ENTITY torbutton.prefs.engine4 "startpage.com">
+<!ENTITY torbutton.prefs.engine5 "duckduckgo.com">
+<!ENTITY torbutton.prefs.fix_google_srch "Systeem- en taalgegevens verwijderen bij gebruik van de Google zoekbalk">
+<!ENTITY torbutton.prefs.transparentTor "Transparante Torificatie (Heeft aangepaste transparente proxy of Tor router nodig)">

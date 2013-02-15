@@ -1,0 +1,11 @@
+# If non-zero, try to write to disk less frequently than we would otherwise.
+AvoidDiskWrites 1
+# Store working data, state, keys, and caches here.
+DataDirectory .\Data\Tor
+GeoIPFile .\Data\Tor\geoip
+# Where to send logging messages.  Format is minSeverity[-maxSeverity]
+# (stderr|stdout|syslog|file FILENAME).
+Log notice stdout
+# Bind to this address to listen to connections from SOCKS-speaking
+# applications.
+SocksListenAddress 127.0.0.1

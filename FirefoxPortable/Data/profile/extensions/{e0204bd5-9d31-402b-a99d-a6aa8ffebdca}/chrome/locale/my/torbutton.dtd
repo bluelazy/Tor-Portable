@@ -1,0 +1,147 @@
+<!ENTITY torbutton.prefs.title "Torbutton ဦးစားပေးချက်များ">
+<!ENTITY torbutton.prefs.display_settings "ပြသမှု ချိန်ညှိချက်များ">
+<!ENTITY torbutton.prefs.display_panel "Tor proxy ချိန်ညှိချက်များကို status bar ထဲတွင် ပြသရန်">
+<!ENTITY torbutton.prefs.panel_format "Status bar ၌ ဖေါ်ပြမည့် ပုံစံ -">
+<!ENTITY torbutton.prefs.panel_text_format "စာသား">
+<!ENTITY torbutton.prefs.panel_icon_format "အိုင်ကွန်">
+<!ENTITY torbutton.prefs.tor_settings "ပရောက်ဇီ ချိန်ညှိချက်များ">
+<!ENTITY torbutton.prefs.recommended_settings "ကျွန်တော့် မီးလျှံမြေခွေး ဗားရှင်းအတွက် အကြံပြုထားသော ပရောက်ဇီ ချိန်ညှိချက်များကို အသုံးပြုရန်">
+<!ENTITY torbutton.prefs.use_privoxy "Privoxy ကို သုံးရန်">
+<!ENTITY torbutton.prefs.use_polipo "Polipo ကို သုံးရန်">
+<!ENTITY torbutton.prefs.custom_settings "စိတ်ကြိုက် ပရောက်ဇီ ချိန်ညှိချက်များကို သုံးရန်">
+<!ENTITY torbutton.prefs.proxy.host.http "HTTP ပရောက်ဇီ -">
+<!ENTITY torbutton.prefs.proxy.host.https "SSL ပရောက်ဇီ -">
+<!ENTITY torbutton.prefs.proxy.host.ftp "FTP ပရောက်ဇီ -">
+<!ENTITY torbutton.prefs.proxy.host.gopher "Gopher ပရောက်ဇီ -">
+<!ENTITY torbutton.prefs.proxy.host.socks "SOCKS Host -">
+<!ENTITY torbutton.prefs.proxy.port "Port -">
+<!ENTITY torbutton.about.title "Torbutton အကြောင်း">
+<!ENTITY torbutton.about.version "ဗားရှင်း - ">
+<!ENTITY torbutton.about.summary "သင့် Tor  ဖွင့်ကြည့်ခြင်း သီးခြားရပ်တည်မှုကို ကာကွယ်ပါ။">
+<!ENTITY torbutton.about.code "ကုဒ် ပါ၀င် ရေးသားသူများ -">
+<!ENTITY torbutton.about.maintainer "ထိန်းသိမ်းသူ -">
+<!ENTITY torbutton.about.security_review "လုံခြုံရေးဆိုင်ရာ သုံးသပ်ချက် -">
+<!ENTITY torbutton.about.donate "အကယ်၍ Tor ကို သင် အသုံးပြုလိုလျှင်၊ သင် စဉ်းစားသင့်သည်">
+<!ENTITY torbutton.about.make_donation "လှူဒါန်းမှု ပြုလုပ်ပါ။">
+<!ENTITY torbutton.pref_connection.notice "အဲဒီ ချိန်ညှိချက်များကို ပြောင်းရန် Torbutton ကို ပိတ်ပါ။">
+<!ENTITY torbutton.pref_connection.more_info "နောက်ထပ် အချက်အလက်များ">
+<!ENTITY torbutton.pref_connection_more_info.title "အကူအညီ">
+<!ENTITY torbutton.pref_connection_more_info.text "Torbutton ကို လောလောဆယ် ဖွင့်ထားသည်။ အကယ်၍ သင့် Tor ပရောက်ဇီ မသုံးသော ချိန်ညှိချက်များကို ပြောင်းလိုလျှင်၊ Torbutton ကို ပိတ်ပြီး ဤနေရာသို့ ပြန်လာပါ။ အကယ်၍ သင့် Tor ချိန်ညှိချက်များကို ပြောင်းလိုပါက၊ Torbutton ဦးစားပေးမှု ၀င်းဒိုးကို သုံးစွဲပါ။">
+<!ENTITY torbutton.context_menu.new_identity "အထောက်အထား အသစ်">
+<!ENTITY torbutton.context_menu.new_identity_key "I">
+<!ENTITY torbutton.context_menu.toggle "Tor status ကို ထိန်း​ကျောင်းရန်">
+<!ENTITY torbutton.context_menu.toggle.key "T">
+<!ENTITY torbutton.context_menu.preferences "ဦးစားပေးချက်များ...">
+<!ENTITY torbutton.context_menu.preferences.key "P">
+<!ENTITY torbutton.context_menu.about "Torbutton အကြောင်း...">
+<!ENTITY torbutton.context_menu.about.key "A">
+<!ENTITY torbutton.context_menu.cookieProtections "ကွတ်ကီး ကာကွယ်မှုများ">
+<!ENTITY torbutton.context_menu.cookieProtections.key "C">
+<!ENTITY torbutton.context_menu.copyTor "Tor URL ကို ကော်ပီးကူးရန်">
+<!ENTITY torbutton.context_menu.copyTor.key "P">
+<!ENTITY torbutton.context_menu.openTorTab "Tor URL ကို စာအမှတ်သစ်တွင် ဖွင့်ရန်">
+<!ENTITY torbutton.context_menu.openTorTab.key "r">
+<!ENTITY torbutton.context_menu.openTorWindow "Tor URL ကို ၀င်းဒိုးသစ်တွင် ဖွင့်ရန်">
+<!ENTITY torbutton.context_menu.openTorWindow.key "d">
+<!ENTITY torbutton.button.label "Torbutton">
+<!ENTITY torbutton.button.tooltip "Torbutton ကို အစပြုရန် နှိပ်ပါ။">
+<!ENTITY torbutton.prefs.sec_settings "လုံခြုံရေး ချိန်ညှိချက်များ">
+<!ENTITY torbutton.prefs.block_thread "Tor အလုပ်လုပ်နေသည့်အခါ မှတ်တမ်းတင် ဖတ်ရှုမှုကို ပိတ်ရန် (အရေးပါသည်)">
+<!ENTITY torbutton.prefs.block_thwrite "Tor အလုပ်လုပ်နေသည့်အခါ မှတ်တမ်းတင် ရေးသားခြင်းကို ပိတ်ရန် (အကြံပြုထားသည်)">
+<!ENTITY torbutton.prefs.block_nthread "Tor အသုံးမပြုသည့်အခါ မှတ်တမ်းတင် ဖတ်ရှုခြင်းကို ပိတ်ရန် (လိုအပ်ပါက)">
+<!ENTITY torbutton.prefs.block_nthwrite "Tor အသုံးမပြုသည့်အခါ မှတ်တမ်းတင် ရေးသားမှုကို ပိတ်ရန် (လိုအပ်ပါက)">
+<!ENTITY torbutton.prefs.clear_history "Tor ထိန်းကျောင်းမှု မှတ်တမ်းကို ရှင်းလင်းပါ (လိုအပ်ပါက)">
+<!ENTITY torbutton.prefs.clear_cache "Tor disk ​ယာယီ သိမ်းဆည်းခန်းကို ပိတ်ပြီး Tor အထိန်းမှ ယာယီဖိုင်များ အားလုံးကို ရှင်းလင်းပါ">
+<!ENTITY torbutton.prefs.block_cache "Tor အလုပ်လုပ်​​​နေစဉ် Disk နှင့် မှတ်ဉာဏ်တွင်း ယာယီ ၀င်ရောက်မှုကို ပိတ်ရန်">
+<!ENTITY torbutton.prefs.cookie_jars "ကာကွယ်ထားသည့် jar ထဲတွင် Tor  မဟုတ်​​​​​​သော ကွတ်ကီးများကို သိမ်းရန်">
+<!ENTITY torbutton.prefs.cookie_protection "ရွေးချယ်ရန် ကွတ်ကီး အကာအကွယ်များ အညွှန်းစာမျက်နှာကို သုံးရန်">
+<!ENTITY torbutton.prefs.mmm_cookies "ကျွန်တော့် ကွတ်ကီးများကို ကျွန်တော် ကိုယ်တိုင် စီမံခန့်ခွဲမည် (အန္တရာယ်ရှိသည်)">
+<!ENTITY torbutton.prefs.clear_cookies "Tor အထိန်းပေါ်က ကွတ်ကီးများကို ရှင်းလင်းရန်">
+<!ENTITY torbutton.prefs.disable_plugins "Tor သုံးစွဲနေချိန်အတွင်း ပလပ်အင်များကို ပိတ်ရန် (အရေးကြီးသည်)">
+<!ENTITY torbutton.prefs.kill_bad_js "အန္တရာယ်ရှိသော javascript ကို ချိတ်ထားရန် (အရေးကြီးသည်)">
+<!ENTITY torbutton.prefs.isolate_content "တက်ကြွသော အကြောင်းအရာကို Tor အခြေအနေ၌ သီးခြားထားရန် (အရေးကြီးသည်)">
+<!ENTITY torbutton.prefs.no_updates "Tor သုံးစွဲနေချိန်တွင် မွမ်းမံချက်များကို ပိတ်ရန်">
+<!ENTITY torbutton.prefs.set_uagent "Tor သုံးစွဲမှုအတွက် သုံးစွဲသူ အေးဂျင့်ကို သတ်မှတ်ရန် (အရေးကြီးသည်)">
+<!ENTITY torbutton.prefs.dynamic "တက်ကြွသော အကြောင်းအရာ">
+<!ENTITY torbutton.prefs.cookies "ကွက်ကီးများ">
+<!ENTITY torbutton.prefs.cache "ယာယီ သိမ်းဆည်းခန်း">
+<!ENTITY torbutton.prefs.history "မှတ်တမ်း">
+<!ENTITY torbutton.prefs.no_search "Tor သုံးစွဲနေချိန်အတွင်း ရှာဖွေမှု အကြံပြုချက်များကို ပိတ်ရန် (အကြံပြုထားသည်)">
+<!ENTITY torbutton.prefs.shutdown "စက်ပိတ်ရန်">
+<!ENTITY torbutton.prefs.tor_shutdown "Tor သုံးထားသော ဘရောင်ဆာကို ပိတ်နေချိန်တွင် Tor  ကွတ်ကီးများကို ရှင်းလင်းရန်">
+<!ENTITY torbutton.prefs.all_shutdown "ဘရောင်ဆာ ပိတ်နေချိန်တွင် ကွတ်ကီးများကို ရှင်းလင်းရန်">
+<!ENTITY torbutton.prefs.no_shutdown "စက်ပိတ်ချိန်တွင် ကျွန်တော့် ကွက်ကီးကို မရှင်းပါနှင့်">
+<!ENTITY torbutton.prefs.disable_sessionstore "လုပ်ငန်း သိမ်းဆည်းမှုကို ပိတ်ရန် (အကြံပြုထားသည်)">
+<!ENTITY torbutton.prefs.headers "ခေါင်းစည်းများ">
+<!ENTITY torbutton.prefs.spoof_english "ယူအက်စ် အင်္ဂလိပ်သုံး ဘရောင်ဆာကို ပုံမှားရိုက်ရန်">
+<!ENTITY torbutton.prefs.refererspoofing "ရည်ညွှန်းသူ ပုံမှားရိုက်ခြင်း">
+<!ENTITY torbutton.prefs.spoofblank "Spoof blank referer during Tor usage (may break some sites)">
+<!ENTITY torbutton.prefs.smartspoof "Tor သုံးစွဲနေချိန်အတွင်း ရည်ညွှန်းချက် ပုံမှားရိုက်ခြင်းကို ပြင်ရန်(ဒိုမိန်း ရည်ညွှန်းချက်များကို ပုံမှားရိုက်ချက်များ)">
+<!ENTITY torbutton.prefs.nospoof "No referer spoof during Tor usage (sends referers as normal)">
+<!ENTITY torbutton.prefs.disable_domstorage "Tor သုံးစွဲချိန်တွင် DOM သိမ်းဆည်းမှုကို ပိတ်ရန် (အရေးကြီးသည်)">
+<!ENTITY torbutton.prefs.forms "ဖြည့်စွတ်ပုံစံများ">
+<!ENTITY torbutton.prefs.block_tforms "Tor သုံးစွဲနေချိန်တွင် စကားဝှက်+ဖြည့်စွတ်ပုံစံ သိမ်းဆည်းမှုကို ပိတ်ရန်(အကြံပြုထားသည်)">
+<!ENTITY torbutton.prefs.block_ntforms "Tor မပါပဲ သုံးစွဲနေချိန်တွင် စကားဝှက်+ဖြည့်စွတ်ပုံစံ သိမ်းဆည်းမှုကို ပိတ်ရန်(လိုအပ်ပါက)">
+<!ENTITY torbutton.prefs.tor "Tor">
+<!ENTITY torbutton.prefs.non_tor "Tor မဟုတ်သော ပရိုဂရမ်များ">
+<!ENTITY torbutton.prefs.restore_tor "လုပ်​ငန်း စတင်နေစဉ်၊ Tor အခြေအနေ သတ်မှတ်မည့် ပုံစံ -">
+<!ENTITY torbutton.prefs.startup_tor "ဘရောင်ဆာ ဖွင့်နေစဉ်၊ Tor အခြေအနေ သတ်မှတ်မည့် ပုံစံ -">
+<!ENTITY torbutton.prefs.reload_crashed_jar "မီး​လျှံမြေခွေး ပျက်သည့်အခါ ကွတ်ကီး jar ကို ပြန်ဖွင့်ရန်/ကွတ်ကီးကို ရှင်းလင်းရန် (အကြံပြုထားသည်)">
+<!ENTITY torbutton.prefs.dual_cookie_jars "Tor နှင့် Tor မပါသော ကွတ်ကီး နှစ်ခုစလုံးကို ကာကွယ်ထားသည့် jar များထဲ၌ သိမ်းဆည်းရန် (အန္တရာယ်ရှိသည်)">
+<!ENTITY torbutton.prefs.clear_http_auth "HTTP auth လုပ်ငန်းများကို ရှင်းလင်းရန် (အကြံပြုထားသည်)">
+<!ENTITY torbutton.prefs.block_js_history "Tor အခြေအနေထဲ မှတ်တမ်း လမ်းကြောင်း ၀င်ရောက်မှုကို ပိတ်ရန် (​အရေးကြီးသည်)">
+<!ENTITY torbutton.prefs.resize_on_toggle "Tor သုံးစွဲနေချိန်တွင် ဝင်းဒိုးကို ၅၀ px အရွယ် ပွားရန် အရွယ်ညှိပါ (အကြံပြုထားသည်)">
+<!ENTITY torbutton.prefs.close_tor "အထိန်းပေါ်ရှိ Tor ၀င်းဒိုးနှင့် စာအမှတ်များကို ပိတ်ရန် (လိုအပ်လျှင်)">
+<!ENTITY torbutton.prefs.close_nontor "Tor မပါသော ၀င်းဒိုးနှင့် စာအမှတ် အားလုံးကို ပိတ်ရန် (လိုအပ်လျှင်)">
+<!ENTITY torbutton.prefs.block_links "Tor အခြေအနေ အမျိုးမျိုးမှ နှိပ်ချက်များနှင့် စာမျက်နှာ ပြန်ဖွင့်ချက်များကို ပိတ်ရန် (လိုအပ်လျှင်)">
+<!ENTITY torbutton.prefs.jar_certs "Tor/Tor မဟုတ်သော ပရိုဂရမ်များ အတွက် SSL လက်မှတ်များကို သီးခြား jar ထဲ၌ သိမ်းဆည်းရန် (အကြံပြုထားသည်)">
+<!ENTITY torbutton.prefs.jar_ca_certs "Tor/Tor မဟုတ်သော ပရိုဂရမ် အတွက် CA လက်မှတ်များကို သီးခြား jar ထဲ၌ သိမ်းထားရန် (အကြံပြုထားသည်)">
+<!ENTITY torbutton.prefs.locked_mode "မတော်တဆ အဖွင့်အပိတ် ပြုလုပ်ခြင်းကို ကာကွယ်ရန် ခလုတ်များနှင့် Hotkeys များကို ပိတ်ရန်">
+<!ENTITY torbutton.prefs.startup_state "ပုံမှန် ၀င်းဒိုးအတက်တွင်၊ Tor အခြေအနေကို သတ်မှတ်မည့် ပုံစံ -">
+<!ENTITY torbutton.prefs.shutdown_state "စက်ပိတ်သည့် အခြေအနေ">
+<!ENTITY torbutton.prefs.startup "၀င်းဒိုး အတက်">
+<!ENTITY torbutton.prefs.block_tor_file_net "file:// urls မှ ကွန်ရက်သို့ Tor ဝင်ရာက်မှုကို ပိတ်ရန် (အကြံပြုထားသည်)">
+<!ENTITY torbutton.prefs.block_nontor_file_net "file://urls မှ ကွန်ရက်သို့ Tor မဟုတ်သော ပရိုဂရမ် ဝင်ရောက်မှုကို ပိတ်ရန်">
+<!ENTITY torbutton.prefs.restore_defaults " မူလအတိုင်း ပြန်ထားရန်">
+<!ENTITY torbutton.prefs.test_settings "စစ်ဆေးမှု ချိန်ညှိချက်များ">
+<!ENTITY torbutton.prefs.test_auto "မီးလျှံမြေခွေး စဖွင့်သည့်အခါ ကျွန်တော့် Tor ချိန်ညှိချက်များကို စမ်းသပ်ရန်">
+<!ENTITY torbutton.prefs.disable_livemarks "Disable livemarks updates during Tor usage">
+<!ENTITY torbutton.prefs.tor_memory_jar "Tor ကွတ်ကီးများကို disk ထဲ ရေးသားခြင်း မပြုရန်">
+<!ENTITY torbutton.prefs.nontor_memory_jar "Tor မဟုတ်သော ပရိုဂရမ်မှ ကွတ်ကီးများကို disk ထဲ ရေးသားခြင်း မပြုရန်">
+<!ENTITY torbutton.prefs.session_restore "လုပ်ငန်း သိုလှောင်ထားမှုကို သိမ်းဆည်းပြီး စာအမှတ်များကို ပြန်ထားရန် -">
+<!ENTITY torbutton.prefs.nontor_tabs "Tor မဟုတ်သော ပရိုဂရမ်မှ စာအမှတ်များ ဖွင့်ထားချက်">
+<!ENTITY torbutton.prefs.tor_tabs "Tor မှ စာအမှတ်များ ဖွင့်ထားချက်">
+<!ENTITY torbutton.prefs.socks_vfour "SOCKS v4">
+<!ENTITY torbutton.prefs.socks_vfive "SOCKS v5">
+<!ENTITY torbutton.prefs.no_proxies_on "ပရောက်ဇီ မလိုအပ်သည့် အရာ -">
+<!ENTITY torbutton.prefs.no_proxy_warning "သတိပေးချက် - အထက်မှ host အမည်များ သုံးစွဲမှုကို ရှောင်ပါ">
+<!ENTITY torbutton.prefs.spoofreresh "ပြန်လှုပ်နှိုးမှုကို Spoof လုပ်ရန်">
+<!ENTITY torbutton.prefs.refereroptions "ရည်ညွှန်းချက် ပုံမှားရိုက်သည့် ရွေးစရာများ">
+<!ENTITY torbutton.prefs.nospoof "ရည်ညွှန်းချက်ကို Spoof  မလုပ်ရန်">
+<!ENTITY torbutton.prefs.spoofroot "ဤစာမျက်နှာ၌ ရှိသော ဖိုင်တွဲကို Spoof  လုပ်ရန်">
+<!ENTITY torbutton.prefs.spoofdomain "ဒိုမိန်းကို ရည်ညွှန်းသူအဖြစ် Spoof လုပ်ရန်">
+<!ENTITY torbutton.prefs.spoofblank "ရည်ညွှန်းသူကို အလွတ်ထားရန်">
+<!ENTITY torbutton.cookiedialog.title "ကွတ်ကီး ကာကွယ်မှုများကို စီမံခန့်ခွဲရန်">
+<!ENTITY torbutton.cookiedialog.lockCol "အကာအကွယ် လုပ်ထားသည်">
+<!ENTITY torbutton.cookiedialog.domainCol "Host">
+<!ENTITY torbutton.cookiedialog.nameCol "အမည်">
+<!ENTITY torbutton.cookiedialog.pathCol "လမ်းကြောင်း">
+<!ENTITY torbutton.cookiedialog.protectCookie "ကွတ်ကီးကို ကာကွယ်ရန်">
+<!ENTITY torbutton.cookiedialog.removeCookie "ကွတ်ကီးကို ဖယ်ထုတ်ရန်">
+<!ENTITY torbutton.cookiedialog.unprotectCookie "ကွတ်ကီးကို ကာကွယ်မထားပါ">
+<!ENTITY torbutton.cookiedialog.removeAllBut "အားလုံးကို ဖယ်ထုတ်ပါ။ သို့သော် အကာအကွယ် လုပ်ထားသည်">
+<!ENTITY torbutton.cookiedialog.saveAllCookies "ကွတ်ကီးသစ်များကို ကာကွယ်ရန်">
+<!ENTITY torbutton.cookiedialog.doNotSaveAllCookies "ကွတ်ကီးသစ်များကို ကာကွယ်ခြင်း မပြုရန်">
+<!ENTITY torbutton.prefs.disable_livemarks "Tor သုံးစွဲနေချိန်တွင် Livemark မွမ်းမံချက်များကို ပိတ်ရန်">
+<!ENTITY torbutton.prefs.dtd_recommended "(အကြံပြုထားသည်)">
+<!ENTITY torbutton.prefs.dtd_optional "(လိုအပ်လျှင်)">
+<!ENTITY torbutton.prefs.dtd_crucial "(အရေးကြီးသည်)">
+<!ENTITY torbutton.prefs.update_torbutton_via_tor "Torbutton မွမ်းမံချက်များကို Tor မှတဆင့် ​တည်နေရာလွှဲရန်">
+<!ENTITY torbutton.prefs.dodge_google_captcha "ဂူဂဲ Captcha တစ်ခုနှင့် ရင်ဆိုင်သည့်အခါ အခြား ရှာဖွေရေး အင်ဂျင် တစ်မျိုးကို အလိုအလျောက် သုံးစွဲပါ -">
+<!ENTITY torbutton.prefs.engine1 "ixquick.com">
+<!ENTITY torbutton.prefs.engine2 "Bing.com">
+<!ENTITY torbutton.prefs.engine3 "Yahoo.com">
+<!ENTITY torbutton.prefs.engine4 "startpage.com">
+<!ENTITY torbutton.prefs.engine5 "duckduckgo.com">
+<!ENTITY torbutton.prefs.fix_google_srch "ဂူဂဲ ရှာဖွေရေး အကွက်ရှိ မေးခွန်းများမှ ပလက်ဖောင်းနှင့် ဘာသာစကား တို့ကို ဖယ်ထုတ်ရန်">
+<!ENTITY torbutton.prefs.transparentTor "ပွင့်လင်းမြင်သာသော Tor သုံးစွဲမှု (စိတ်ကြိုက် transproxy နှင့် Tor Router လိုအပ်သည်)">

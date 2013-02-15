@@ -1,0 +1,147 @@
+<!ENTITY torbutton.prefs.title "تنظيمات دکمه تُر">
+<!ENTITY torbutton.prefs.display_settings "تنظيمات نمايش">
+<!ENTITY torbutton.prefs.display_panel "نمايش تنظيمات پراکسی تُر در نوار وضعيت">
+<!ENTITY torbutton.prefs.panel_format "چگونگی نمايش نوار وضعيت:">
+<!ENTITY torbutton.prefs.panel_text_format "متن">
+<!ENTITY torbutton.prefs.panel_icon_format "شمايل">
+<!ENTITY torbutton.prefs.tor_settings "تنظيمات پراکسی">
+<!ENTITY torbutton.prefs.recommended_settings "بکاربردن تنظيمات پراکسی توصيه شده برای نسخه فايرفاکس من">
+<!ENTITY torbutton.prefs.use_privoxy "استفاده از پرايواکسی (Privoxy)">
+<!ENTITY torbutton.prefs.use_polipo "استفاده از پوليپو (Polipo)">
+<!ENTITY torbutton.prefs.custom_settings "بکاربردن تنظيمات سفارشی برای پراکسی">
+<!ENTITY torbutton.prefs.proxy.host.http "پراکسی HTTP:">
+<!ENTITY torbutton.prefs.proxy.host.https "پراکسی SSL:">
+<!ENTITY torbutton.prefs.proxy.host.ftp "پراکسی FTP:">
+<!ENTITY torbutton.prefs.proxy.host.gopher "پراکسی Gopher:">
+<!ENTITY torbutton.prefs.proxy.host.socks "ميزبان SOCKS:">
+<!ENTITY torbutton.prefs.proxy.port "درگاهی (Port):">
+<!ENTITY torbutton.about.title "دربارۀ دکمه تُر">
+<!ENTITY torbutton.about.version "نسخه :">
+<!ENTITY torbutton.about.summary "محافظت از حریم خصوصی در هنگام وبگردی با تُر.">
+<!ENTITY torbutton.about.code "کانون کد :">
+<!ENTITY torbutton.about.maintainer "نگهدارنده :">
+<!ENTITY torbutton.about.security_review "دیدگاه های ایمنی :">
+<!ENTITY torbutton.about.donate "اگر مایل به استفاده از تُر هستید، میتوانید مدنظر قرار دهید">
+<!ENTITY torbutton.about.make_donation "اهداء کمک نقدی.">
+<!ENTITY torbutton.pref_connection.notice "غيرفعال کردن دکمه تُر جهت تغيير دراين تنظيمات.">
+<!ENTITY torbutton.pref_connection.more_info "اطلاعات بيشتر">
+<!ENTITY torbutton.pref_connection_more_info.title "راهنما">
+<!ENTITY torbutton.pref_connection_more_info.text "دکمه تُرهم اکنون فعال شده است.اگر می‌خواهيد تنظيمات پراکسی غيرمرتبط با تُر را تغيير دهيد، لطفا دکمه تُر را غيرفعال کنيد و دوباره به اينجا بازگرديد. اگر ميخواهيد تنظيمات تُر را تغيير دهيد، از پنجره تنظيمات دکمه تُر استفاده کنيد.">
+<!ENTITY torbutton.context_menu.new_identity "هویت جدید">
+<!ENTITY torbutton.context_menu.new_identity_key "من">
+<!ENTITY torbutton.context_menu.toggle "ضامن فعال/غيرفعال کردن تُر">
+<!ENTITY torbutton.context_menu.toggle.key "T">
+<!ENTITY torbutton.context_menu.preferences "تنظيمات...">
+<!ENTITY torbutton.context_menu.preferences.key "P">
+<!ENTITY torbutton.context_menu.about "درباره ي دکمه تُر...">
+<!ENTITY torbutton.context_menu.about.key "A">
+<!ENTITY torbutton.context_menu.cookieProtections "حفاظت کلوچک‌ها">
+<!ENTITY torbutton.context_menu.cookieProtections.key "C">
+<!ENTITY torbutton.context_menu.copyTor "کپی به نشانی اينترنتی">
+<!ENTITY torbutton.context_menu.copyTor.key "p">
+<!ENTITY torbutton.context_menu.openTorTab "باز کردن نشانی اينترنتی تُر در يک برگه جديد ">
+<!ENTITY torbutton.context_menu.openTorTab.key "r">
+<!ENTITY torbutton.context_menu.openTorWindow "باز کردن نشانی اينترنتی تُر در يک پنجره جديد ">
+<!ENTITY torbutton.context_menu.openTorWindow.key "d">
+<!ENTITY torbutton.button.label "دکمه تُر">
+<!ENTITY torbutton.button.tooltip "جهت شروع دكمه تُرکليک کنيد">
+<!ENTITY torbutton.prefs.sec_settings "تنظیمات امنیتی">
+<!ENTITY torbutton.prefs.block_thread "جلوگیری ازخواندن تاریخچه (History) در هنگام اجرای تُر (بسیار مهم)">
+<!ENTITY torbutton.prefs.block_thwrite "جلوگیری از نوشتن تاریخچه (History) در هنگام اجرای تُر (توصیه شده)">
+<!ENTITY torbutton.prefs.block_nthread "جلوگیری از خواندن تاریخچه (History) در زمان غيرتُر (اختیاری)">
+<!ENTITY torbutton.prefs.block_nthwrite "جلوگیری از نوشتن تاریخچه (History) در زمان غيرتُر (اختیاری)">
+<!ENTITY torbutton.prefs.clear_history "پاک کردن تاریخچه در زمان فعال/غیرفعال کردن تُر (اختیاری)">
+<!ENTITY torbutton.prefs.clear_cache "جلوگيری از ذخيره‌گاه ديسک (Disk cache) تُر و پاک کردن تمام ذخيره‌گاه در زمان فعال/غیرفعال کردن تُر">
+<!ENTITY torbutton.prefs.block_cache "جلوگيری از دسترسی به ذخيره‌گاه حافظه (Memory cache) و دیسک در هنگام اجرای تُر">
+<!ENTITY torbutton.prefs.cookie_jars "ذخیره کردن کلوچک‌های غیر تُر در یک فایل حفاظت شده jar">
+<!ENTITY torbutton.prefs.cookie_protection "برای انتخاب از پنجره حفاظت کلوچک‌ها استفاده کنيد">
+<!ENTITY torbutton.prefs.mmm_cookies "خودم به طور دستی کلوچک‌ها را مديريت می‌کنم (خطرناک)">
+<!ENTITY torbutton.prefs.clear_cookies "پاک کردن کلوچک‌ها در هنگام فعال/غیرفعال کردن تُر">
+<!ENTITY torbutton.prefs.disable_plugins "غیرفعال کردن افزونه‌ها هنگام استفاده از تُر (بسیار مهم)">
+<!ENTITY torbutton.prefs.kill_bad_js "به دام انداختن جاوااسکریپت‌های خطرناک (بسیار مهم)">
+<!ENTITY torbutton.prefs.isolate_content "محدودسازی محتوای پویا به وضعیت تُر (بسیار مهم)">
+<!ENTITY torbutton.prefs.no_updates "غیرفعال کردن به‌روزرسانی در هنگام استفاده از تُر">
+<!ENTITY torbutton.prefs.set_uagent "تعيين کاربر برای استفاده از تُر (بسیار مهم)">
+<!ENTITY torbutton.prefs.dynamic "محتوای پویا">
+<!ENTITY torbutton.prefs.cookies "کلوچک‌ها">
+<!ENTITY torbutton.prefs.cache "ذخيره‌گاه">
+<!ENTITY torbutton.prefs.history "تاریخچه">
+<!ENTITY torbutton.prefs.no_search "غیرفعال کردن پیشنهادهای جستجو هنگام اجرای تُر (توصیه شده)">
+<!ENTITY torbutton.prefs.shutdown "بستن">
+<!ENTITY torbutton.prefs.tor_shutdown "پاک کردن کلوچک‌های تُردرهنگام بستن مرورگری که با تُر کار می‌کند">
+<!ENTITY torbutton.prefs.all_shutdown "پاک کردن کلوچک‌ها هنگام بستن هر مرورگری">
+<!ENTITY torbutton.prefs.no_shutdown "پاک نکردن کلوچک‌ها هنگام بستن">
+<!ENTITY torbutton.prefs.disable_sessionstore "غیرفعال کردن ذخیره‌سازی نشست (Session) ها (توصیه شده)">
+<!ENTITY torbutton.prefs.headers "سربرگ‌ها">
+<!ENTITY torbutton.prefs.spoof_english "جعل هویت یک مرورگر با زبان انگليسی آمریکایی">
+<!ENTITY torbutton.prefs.refererspoofing "جعل هويت ارجاع دهنده">
+<!ENTITY torbutton.prefs.spoofblank "Spoof blank referer during Tor usage (may break some sites)">
+<!ENTITY torbutton.prefs.smartspoof "جعل هويت هوشمندانه ارجاع دهنده هنگام استفاده از تُر (ارجاع دهنده های ميان دامنه‌ای را جعل هويت می کند)">
+<!ENTITY torbutton.prefs.nospoof "No referer spoof during Tor usage (sends referers as normal)">
+<!ENTITY torbutton.prefs.disable_domstorage "غیرغعال کردن انباره DOM هنگام استفاده از تُر (بسیار مهم)">
+<!ENTITY torbutton.prefs.forms "فرم‌ها">
+<!ENTITY torbutton.prefs.block_tforms "جلوگيری از ذخیره اسم رمز و اطلاعات فرم هنگام اجرای تُر (توصیه شده)">
+<!ENTITY torbutton.prefs.block_ntforms "جلوگيری از ذخیره اسم رمز و اطلاعات فرم هنگام غیر فعال بودن تُر (اختیاری)">
+<!ENTITY torbutton.prefs.tor "تُر">
+<!ENTITY torbutton.prefs.non_tor "غیرتُر">
+<!ENTITY torbutton.prefs.restore_tor "در صورت آغاز اجرای مرورگر با بازگردانی نشست (Session) قبلی، وضعیت تُر را در اين حالت قرار بده:">
+<!ENTITY torbutton.prefs.startup_tor "هنگام شروع مرورگر، وضعيت تُر را در اين حالت قرار بده:">
+<!ENTITY torbutton.prefs.reload_crashed_jar "بارگذاری مجدد فايل jar حاوی کلوچک‌ها / پاک کردن کلوچک‌ها هنگام از کار افتادن فايرفاکس (توصيه شده)">
+<!ENTITY torbutton.prefs.dual_cookie_jars "هم کلوچک‌های تُر و هم کلوچک‌های غيرتُر را در فايل‌های jar حفاظت شده قرار بده (خطرناک)">
+<!ENTITY torbutton.prefs.clear_http_auth "پاک کردن نشست های احرازهویت HTTP (توصیه شده)">
+<!ENTITY torbutton.prefs.block_js_history "محدود کردن دسترسی به مرور تاریخچه صفحات به وضعیت تُر (بسیار مهم)">
+<!ENTITY torbutton.prefs.resize_on_toggle "تغییراندازه ابعاد پنجره با مضربهای 50 پيکسل در هنگام استفاده از تُر(توصیه شده)">
+<!ENTITY torbutton.prefs.close_tor "بستن همه پنجره های تُر و برگه‌های آنها در هنگام فعال/غیرفعال شدن (اختیاری)">
+<!ENTITY torbutton.prefs.close_nontor "بستن همه پنجره های غیرتُر و برگه‌های آنها درهنگام فعال/غیرفعال شدن (اختیاری)">
+<!ENTITY torbutton.prefs.block_links "جلوگيری از کلیک پیوند‌ها و بارگذاری مجدد صفحات از وضعیت های متفاوت تُر (اختیاری)">
+<!ENTITY torbutton.prefs.jar_certs "ذخيره‌سازی گواهی‌های SSL برای تُر و غيرتُر در فايل‌های jar جداگانه (توصيه شده)">
+<!ENTITY torbutton.prefs.jar_ca_certs "ذخيره‌سازی گواهی‌های مراجع گواهی (CA) برای تُر و غيرتُر در فايل‌های jar جداگانه (توصيه شده)">
+<!ENTITY torbutton.prefs.locked_mode "غبرفعال کردن دکمه و کلیدهای میانبر جهت جلوگیری از فعال/غیرفعال سازی اشتباهی">
+<!ENTITY torbutton.prefs.startup_state "در هنگام آغاز اجرای مرورگر به صورت عادّی، وضعیت تُر را در اين حالت قرار بده:">
+<!ENTITY torbutton.prefs.shutdown_state "وضعیت بستن">
+<!ENTITY torbutton.prefs.startup "شروع">
+<!ENTITY torbutton.prefs.block_tor_file_net "جلوگيری از دسترسی تُر به شبکه از طريق نشانی‌هایی که با file:// آغاز می‌شوند (توصيه مي شود)">
+<!ENTITY torbutton.prefs.block_nontor_file_net "جلوگيری از دسترسی غيرتُر به شبکه از طريق نشانی‌هایی که با file:// آغاز می‌شوند">
+<!ENTITY torbutton.prefs.restore_defaults "بازگرداندن تنظیمات به حالت پیش‌فرض">
+<!ENTITY torbutton.prefs.test_settings "تنظیمات آزمودن  ">
+<!ENTITY torbutton.prefs.test_auto "با شروع فایرفاکس بعد از اولين فعال/غیرفعال کردن، تنظیمات تُر را آزمایش کن">
+<!ENTITY torbutton.prefs.disable_livemarks "Disable livemarks updates during Tor usage">
+<!ENTITY torbutton.prefs.tor_memory_jar "کلوچک‌های تُر را بر روی دیسک ننویس">
+<!ENTITY torbutton.prefs.nontor_memory_jar "کلوچک‌های غیر تُر را بر روی دیسک ننویس">
+<!ENTITY torbutton.prefs.session_restore "برگه‌های زير را در نشست ذخيره و بازگردانی شوند:">
+<!ENTITY torbutton.prefs.nontor_tabs "برگه‌هایی که در غیرتُر بارگذاری شده‌اند">
+<!ENTITY torbutton.prefs.tor_tabs "برگه‌هایی که در تُر بارگذاری شده‌اند">
+<!ENTITY torbutton.prefs.socks_vfour "SOCKS v4">
+<!ENTITY torbutton.prefs.socks_vfive "SOCK v5">
+<!ENTITY torbutton.prefs.no_proxies_on "عدم استفاده از پراکسی برای:">
+<!ENTITY torbutton.prefs.no_proxy_warning "هشدار: از به کار بردن هر گونه نام ميزبان (hostname) در بالا بپرهيزيد">
+<!ENTITY torbutton.prefs.spoofreresh "تازه کردن هويت جعلی">
+<!ENTITY torbutton.prefs.refereroptions "تنظيمات جعل هويت ارجاع دهنده">
+<!ENTITY torbutton.prefs.nospoof "عدم جعل هويت ارجاع دهنده">
+<!ENTITY torbutton.prefs.spoofroot "جعل هويت پوشه حاوی صفحه">
+<!ENTITY torbutton.prefs.spoofdomain "جعل هويت دامنه به عنوان ارجاع دهنده">
+<!ENTITY torbutton.prefs.spoofblank "بی‌نام سازی ارجاع دهنده">
+<!ENTITY torbutton.cookiedialog.title "مديريت حفاظت کلوچک‌ها">
+<!ENTITY torbutton.cookiedialog.lockCol "حفاظت شده">
+<!ENTITY torbutton.cookiedialog.domainCol "ميزبان">
+<!ENTITY torbutton.cookiedialog.nameCol "نام">
+<!ENTITY torbutton.cookiedialog.pathCol "مسير">
+<!ENTITY torbutton.cookiedialog.protectCookie "حفاظت از کلوچک">
+<!ENTITY torbutton.cookiedialog.removeCookie "حذف کلوچک">
+<!ENTITY torbutton.cookiedialog.unprotectCookie "عدم حفاظت از کلوچک">
+<!ENTITY torbutton.cookiedialog.removeAllBut "حذف تمام کلوچک‌های حفاظت نشده">
+<!ENTITY torbutton.cookiedialog.saveAllCookies "حفاظت از کلوچک‌های جديد">
+<!ENTITY torbutton.cookiedialog.doNotSaveAllCookies "عدم حفاظت از کلوچک‌های جديد">
+<!ENTITY torbutton.prefs.disable_livemarks "غيرفعال کردن به‌روزرسانی بوک مارک‌ها (livemarks) حين استفاده از تُر">
+<!ENTITY torbutton.prefs.dtd_recommended "(توصيه می شود)">
+<!ENTITY torbutton.prefs.dtd_optional "(اختياری)">
+<!ENTITY torbutton.prefs.dtd_crucial "(بسيار مهم)">
+<!ENTITY torbutton.prefs.update_torbutton_via_tor "تغيير مسير به‌روزرسانی‌های دکمه تُر از طريق تُر">
+<!ENTITY torbutton.prefs.dodge_google_captcha "به کار بردن خودکار يک موتور جستجوی ديگر هنگام برخورد با پيام‌های Captcha در گوگل:">
+<!ENTITY torbutton.prefs.engine1 "ixquick.com">
+<!ENTITY torbutton.prefs.engine2 "Bing.com">
+<!ENTITY torbutton.prefs.engine3 "Yahoo.com">
+<!ENTITY torbutton.prefs.engine4 "startpage.com">
+<!ENTITY torbutton.prefs.engine5 "duckduckgo.com">
+<!ENTITY torbutton.prefs.fix_google_srch "اطلاعات مربوط به نوع سيستم عامل و مرورگر و زبان مورد استفاده شما را از ورودی‌های جستجوگر گوگل حذف کن">
+<!ENTITY torbutton.prefs.transparentTor "سازگارسازی با تُر به صورت شفاف (نياز به رهياب تُر يا Tor router و يا transproxy سفارشی دارد)">

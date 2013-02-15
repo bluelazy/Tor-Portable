@@ -1,0 +1,147 @@
+<!ENTITY torbutton.prefs.title "Torbutton beállítások">
+<!ENTITY torbutton.prefs.display_settings "Megjelenítési beállítások">
+<!ENTITY torbutton.prefs.display_panel "A Tor proxy beállítások megjelenítése az állapot soron">
+<!ENTITY torbutton.prefs.panel_format "Állapot sor megjelenési formátum:">
+<!ENTITY torbutton.prefs.panel_text_format "Szöveg">
+<!ENTITY torbutton.prefs.panel_icon_format "Ikon">
+<!ENTITY torbutton.prefs.tor_settings "Proxy beállítások">
+<!ENTITY torbutton.prefs.recommended_settings "Az ajánlott proxy beállítások használata a Firefox verziómhoz">
+<!ENTITY torbutton.prefs.use_privoxy "Privoxy használata">
+<!ENTITY torbutton.prefs.use_polipo "Polipo használata">
+<!ENTITY torbutton.prefs.custom_settings "Egyéni proxy beállítások használata">
+<!ENTITY torbutton.prefs.proxy.host.http "HTTP Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.https "SSL Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.ftp "FTP Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.gopher "Gopher Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.socks "SOCKS állomásnév:">
+<!ENTITY torbutton.prefs.proxy.port "Port:">
+<!ENTITY torbutton.about.title "A Torbutton névjegye">
+<!ENTITY torbutton.about.version "Verzió:">
+<!ENTITY torbutton.about.summary "Védi a személyes adatokat a Tor böngészés során.">
+<!ENTITY torbutton.about.code "Programkód hozzájárulók:">
+<!ENTITY torbutton.about.maintainer "Karbantartó:">
+<!ENTITY torbutton.about.security_review "Biztonsági áttekintés:">
+<!ENTITY torbutton.about.donate "Ha tetszik a Tor használata, talán megfontolja,">
+<!ENTITY torbutton.about.make_donation "hogy adományozzon.">
+<!ENTITY torbutton.pref_connection.notice "Tiltsa le a Torbutton-t ezen beállítások megváltoztatásához">
+<!ENTITY torbutton.pref_connection.more_info "További információk">
+<!ENTITY torbutton.pref_connection_more_info.title "Súgó">
+<!ENTITY torbutton.pref_connection_more_info.text "A Torbutton jelenleg engedélyezett. Ha szeretné megváltoztatni a Tor nélküli proxy beállításokat, kapcsolja ki Torbutton-t és térjen vissza ide. Ha szeretné megváltoztatni a Tor beállításait, használja inkább a Torbutton Beállítások ablakát.">
+<!ENTITY torbutton.context_menu.new_identity "Új személyazonosság">
+<!ENTITY torbutton.context_menu.new_identity_key "S">
+<!ENTITY torbutton.context_menu.toggle "Tor állapot váltása">
+<!ENTITY torbutton.context_menu.toggle.key "V">
+<!ENTITY torbutton.context_menu.preferences "Beállítások...">
+<!ENTITY torbutton.context_menu.preferences.key "B">
+<!ENTITY torbutton.context_menu.about "A Torbutton névjegye...">
+<!ENTITY torbutton.context_menu.about.key "N">
+<!ENTITY torbutton.context_menu.cookieProtections "Süti védelem">
+<!ENTITY torbutton.context_menu.cookieProtections.key "S">
+<!ENTITY torbutton.context_menu.copyTor "Tor URL másolása">
+<!ENTITY torbutton.context_menu.copyTor.key "M">
+<!ENTITY torbutton.context_menu.openTorTab "Tor URL megnyitása új fülön">
+<!ENTITY torbutton.context_menu.openTorTab.key "f">
+<!ENTITY torbutton.context_menu.openTorWindow "Tor URL megnyitása új ablakban">
+<!ENTITY torbutton.context_menu.openTorWindow.key "a">
+<!ENTITY torbutton.button.label "Torbutton">
+<!ENTITY torbutton.button.tooltip "Kattintson a Torbutton inicializálásához">
+<!ENTITY torbutton.prefs.sec_settings "Biztonsági beállítások">
+<!ENTITY torbutton.prefs.block_thread "Az előzmények olvasásának tiltása a Tor használat során (kritikus)">
+<!ENTITY torbutton.prefs.block_thwrite "Az előzmények rögzítésének tiltása a Tor használat során (ajánlott)">
+<!ENTITY torbutton.prefs.block_nthread "Az előzmények olvasásának tiltása a Tor nélküli használat során (opcionális)">
+<!ENTITY torbutton.prefs.block_nthwrite "Az előzmények rögzítésének tiltása a Tor nélküli használat során (ajánlott)">
+<!ENTITY torbutton.prefs.clear_history "Az előzmények törlése a Tor állapot váltásakor (opcionális)">
+<!ENTITY torbutton.prefs.clear_cache "Blokkolja a Tor lemez gyorsítótárat, és törölje az összes gyorsítótárat a Tor állapotváltásakor">
+<!ENTITY torbutton.prefs.block_cache "Blokkolja a lemez és memória gyorsítótár hozzáférést a Tor kapcsolat alatt">
+<!ENTITY torbutton.prefs.cookie_jars "Tárolja a Tor-nélküli kapcsolat sütijeit egy védett sütisdobozban">
+<!ENTITY torbutton.prefs.cookie_protection "Használja a Süti védelem ablakot a kiválasztáshoz">
+<!ENTITY torbutton.prefs.mmm_cookies "Kézzel kezelem a sütijeimet (veszélyes)">
+<!ENTITY torbutton.prefs.clear_cookies "Sütik törlése a Tor be-kikapcsolásakor">
+<!ENTITY torbutton.prefs.disable_plugins "A kiegészítők letiltása a Tor használat során (kritikus)">
+<!ENTITY torbutton.prefs.kill_bad_js "Veszélyes javascript megfogása (kritikus)">
+<!ENTITY torbutton.prefs.isolate_content "Dinamikus tartalom izolálása a Tor állapothoz (kritikus)">
+<!ENTITY torbutton.prefs.no_updates "Frissítések tiltása a Tor használat alatt">
+<!ENTITY torbutton.prefs.set_uagent "Böngésző azonosítás beállítása Tor használat alatt (kritikus)">
+<!ENTITY torbutton.prefs.dynamic "Dinamikus tartalom">
+<!ENTITY torbutton.prefs.cookies "Sütik">
+<!ENTITY torbutton.prefs.cache "Cache">
+<!ENTITY torbutton.prefs.history "Előzmények">
+<!ENTITY torbutton.prefs.no_search "Keresési javaslatok tiltása Tor kapcsolat alatt (ajánlott)">
+<!ENTITY torbutton.prefs.shutdown "Leállítás">
+<!ENTITY torbutton.prefs.tor_shutdown "A Tor sütik törlése a Tor-képes böngészőből kilépéskor">
+<!ENTITY torbutton.prefs.all_shutdown "Törölje a sütiket bármilyen böngésző kilépéskor">
+<!ENTITY torbutton.prefs.no_shutdown "Kilépéskor ne törölje a sütijeimet">
+<!ENTITY torbutton.prefs.disable_sessionstore "Munkafolyamat mentésének tiltása (ajánlott)">
+<!ENTITY torbutton.prefs.headers "Fejlécek">
+<!ENTITY torbutton.prefs.spoof_english "Amerikai angol böngészőnek álcázás">
+<!ENTITY torbutton.prefs.refererspoofing "Hivatkozó oldal hamisítás">
+<!ENTITY torbutton.prefs.spoofblank "Spoof blank referer during Tor usage (may break some sites)">
+<!ENTITY torbutton.prefs.smartspoof "Intelligens hivatkozó oldal hazudás a Tor használat alatt (kereszt domain hivatkozást hazudik)">
+<!ENTITY torbutton.prefs.nospoof "No referer spoof during Tor usage (sends referers as normal)">
+<!ENTITY torbutton.prefs.disable_domstorage "DOM tárolás tiltsa a Tor használat alatt (kritikus)">
+<!ENTITY torbutton.prefs.forms "Űrlapok">
+<!ENTITY torbutton.prefs.block_tforms "A jelszavak és űrlapok mentésének tiltása Tor kapcsolat során (ajánlott)">
+<!ENTITY torbutton.prefs.block_ntforms "A jelszavak és űrlapok mentésének tiltása Tor nélküli kapcsolat során (opcionális)">
+<!ENTITY torbutton.prefs.tor "Tor">
+<!ENTITY torbutton.prefs.non_tor "Tor-nélküli">
+<!ENTITY torbutton.prefs.restore_tor "Munkamenet helyreállítása során a következő Tor állapot beállítása:">
+<!ENTITY torbutton.prefs.startup_tor "A böngésző indításakor állítsa be a következő Tor állapotot:">
+<!ENTITY torbutton.prefs.reload_crashed_jar "A Sütisdoboz újratöltése/sütik törlése a Firefox összeomlásakor (ajánlott)">
+<!ENTITY torbutton.prefs.dual_cookie_jars "A Tor kapcsolat és a Tor nélküli kapcsolat során beszerzett sütik védett dobozokban tárolása (veszélyes)">
+<!ENTITY torbutton.prefs.clear_http_auth "A HTTP auth session-ök törlése (ajánlott)">
+<!ENTITY torbutton.prefs.block_js_history "Az Előzményekben navigálás elválasztása a különböző Tor állapotokban (kritikus)">
+<!ENTITY torbutton.prefs.resize_on_toggle "Ablakok átméretezése az 50px többszörösére a a Tor használat alatt (ajánlott)">
+<!ENTITY torbutton.prefs.close_tor "Váltáskor az összes Tor kapcsolattal rendelkező ablak és fül bezárása (opcionális)">
+<!ENTITY torbutton.prefs.close_nontor "Váltáskor az összes Tor nélküli kapcsolattal rendelkező ablak és fül bezárása (opcionális)">
+<!ENTITY torbutton.prefs.block_links "A különböző Tor állapotok közti oldalletöltés és link kattintás tiltása (ajánlott)">
+<!ENTITY torbutton.prefs.jar_certs "Az SSL tanúsítványok külön dobozban tárolása a Tor kapcsolat és a Tor nélküli kapcsolat során (ajánlott)">
+<!ENTITY torbutton.prefs.jar_ca_certs "A hitelesítés szolgáltató tanúsítványok tanúsítványok külön dobozban tárolása a Tor kapcsolat és a Tor nélküli kapcsolat során (ajánlott)">
+<!ENTITY torbutton.prefs.locked_mode "A gombok és gyorsbillentyűk tiltása a véletlen állapotváltás megakadályozásához">
+<!ENTITY torbutton.prefs.startup_state "Normál indítás esetén állítsa be a következő Tor állapotot:">
+<!ENTITY torbutton.prefs.shutdown_state "Leállási állapot">
+<!ENTITY torbutton.prefs.startup "Indulás">
+<!ENTITY torbutton.prefs.block_tor_file_net "Tiltsa a Tor kapcsolat során a hozzáférést a hálózatról a file:// címekről (ajánlott)">
+<!ENTITY torbutton.prefs.block_nontor_file_net "Tiltsa a Tor nélküli kapcsolat során a hozzáférést a hálózatról a file:// címekről ">
+<!ENTITY torbutton.prefs.restore_defaults "Alapértékek visszaállítása">
+<!ENTITY torbutton.prefs.test_settings "Beállítások tesztelése">
+<!ENTITY torbutton.prefs.test_auto "Teszteltje a Tor-beállításokat, minden Firefox indulást követő első Tor állapot váltáskor">
+<!ENTITY torbutton.prefs.disable_livemarks "Disable livemarks updates during Tor usage">
+<!ENTITY torbutton.prefs.tor_memory_jar "Ne írja a lemezre a sütiket a Tor kapcsolat során">
+<!ENTITY torbutton.prefs.nontor_memory_jar "Ne írja a lemezre a sütiket a Tor nélküli kapcsolat során">
+<!ENTITY torbutton.prefs.session_restore "A munkamenet tárolók mentsék és állítsák helyre ezeket a füleket:">
+<!ENTITY torbutton.prefs.nontor_tabs "Tor nélkül betöltött fülek">
+<!ENTITY torbutton.prefs.tor_tabs "Tor-on keresztül betöltött fülek">
+<!ENTITY torbutton.prefs.socks_vfour "SOCKS v4">
+<!ENTITY torbutton.prefs.socks_vfive "SOCKS v5">
+<!ENTITY torbutton.prefs.no_proxies_on "Nincs proxy ehhez:">
+<!ENTITY torbutton.prefs.no_proxy_warning "Figyelem: Ne használja a lentebb látható hostneveket">
+<!ENTITY torbutton.prefs.spoofreresh "Hamisítás frissítés">
+<!ENTITY torbutton.prefs.refereroptions "Hivatkozó oldal hamisítási beállítások">
+<!ENTITY torbutton.prefs.nospoof "Ne hamisítsa a hivatkozó oldalt">
+<!ENTITY torbutton.prefs.spoofroot "Hamisítsa a weboldal oldalt tartalmazó könyvtárát">
+<!ENTITY torbutton.prefs.spoofdomain "A domain megadása hivatkozó oldalnak">
+<!ENTITY torbutton.prefs.spoofblank "A hivatkozó oldal legyen üres">
+<!ENTITY torbutton.cookiedialog.title "Süti védelem kezelése">
+<!ENTITY torbutton.cookiedialog.lockCol "Védett">
+<!ENTITY torbutton.cookiedialog.domainCol "Állomás">
+<!ENTITY torbutton.cookiedialog.nameCol "Név">
+<!ENTITY torbutton.cookiedialog.pathCol "Útvonal">
+<!ENTITY torbutton.cookiedialog.protectCookie "Süti védelme">
+<!ENTITY torbutton.cookiedialog.removeCookie "Süti törlés">
+<!ENTITY torbutton.cookiedialog.unprotectCookie "Süti védelem eltávolítása">
+<!ENTITY torbutton.cookiedialog.removeAllBut "A védett kivételével az összes törlése">
+<!ENTITY torbutton.cookiedialog.saveAllCookies "Védje az új sütiket">
+<!ENTITY torbutton.cookiedialog.doNotSaveAllCookies "Ne védje az új sütiket">
+<!ENTITY torbutton.prefs.disable_livemarks "A Livemark frissítések tiltása Tor kapcsolat alatt">
+<!ENTITY torbutton.prefs.dtd_recommended "(ajánlott)">
+<!ENTITY torbutton.prefs.dtd_optional "(opcionális)">
+<!ENTITY torbutton.prefs.dtd_crucial "(kritikus)">
+<!ENTITY torbutton.prefs.update_torbutton_via_tor "A Torbutton frissítések Tor-on keresztüli átirányítása">
+<!ENTITY torbutton.prefs.dodge_google_captcha "Automatikusan használjon egy másik keresőmotort, ha Google Captcha-val találkozik:">
+<!ENTITY torbutton.prefs.engine1 "ixquick.com">
+<!ENTITY torbutton.prefs.engine2 "Bing.com">
+<!ENTITY torbutton.prefs.engine3 "Yahoo.com">
+<!ENTITY torbutton.prefs.engine4 "startpage.com">
+<!ENTITY torbutton.prefs.engine5 "duckduckgo.com">
+<!ENTITY torbutton.prefs.fix_google_srch "Szedje ki az operációs rendszert és a nyelvet a Google kereső ablakokból">
+<!ENTITY torbutton.prefs.transparentTor "Átlátszó Tor-osítás (Egyedi transproxy-t vagy Tor routert igényel)">

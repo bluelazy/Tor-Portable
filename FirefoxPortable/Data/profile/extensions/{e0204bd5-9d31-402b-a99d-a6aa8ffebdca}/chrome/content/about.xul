@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+
+<!DOCTYPE overlay SYSTEM "chrome://torbutton/locale/torbutton.dtd">
+
+<dialog id="torbutton-about"
+  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+  xmlns:html="http://www.w3.org/1999/xhtml"
+  buttons="accept"
+  title="&torbutton.about.title;"
+  width="500"
+  height="400"
+  align="center"
+  onload="torbutton_about_init();">
+
+  <script type="application/x-javascript" src="torbutton_util.js" />
+
+  <vbox>
+    <label style="text-align:center; color: blue; cursor:hand; text-decoration: underline;font-weight:bold; font-size:22px;"
+        value="&torbutton.button.label;"
+        onmouseover="event.target.style.cursor='pointer'"
+        onmouseout="event.target.style.cursor='default'"
+        onclick="Components.classes['@mozilla.org/appshell/window-mediator;1'].getService(Components.interfaces.nsIWindowMediator).getMostRecentWindow('navigator:browser').open('https://www.torproject.org/torbutton/')"/>
+    <label style="text-align:center; font-size:18px; margin-top: 10px; margin-bottom:20px;">&torbutton.about.summary;</label>
+
+    <groupbox>
+      <caption label="&torbutton.about.version;" />
+      <label id="torbuttonVersion"/>
+    </groupbox>
+    
+    <groupbox>
+      <caption label="&torbutton.about.maintainer;" />
+      <label>Mike Perry</label>
+    </groupbox>
+    
+    <groupbox>
+      <caption label="&torbutton.about.code;" />
+      <label>Jérémy Bobbio, arno, Collin Jackson, Kory Kirk, Edward Pastuszenski, and Scott Squires</label>
+    </groupbox>
+
+<!--
+    Hrmm.. It is probably wrong to give the impression that these people do
+    continual review. Right now, no one does that :(. These two used to, but
+    we haven't heard much from them lately.
+    <groupbox>
+      <caption label="&torbutton.about.security_review;" />
+      <label>Gregory Fleischer, Kyle Williams, and many others.</label>
+    </groupbox>
+-->
+
+    <label style="font-weight:bold; margin-top:50px;">
+      &torbutton.about.donate;<label id="donate link"
+        value="&torbutton.about.make_donation;"
+        style="color: blue; cursor:hand; text-decoration:underline; font-style:bold"
+        onmouseover="event.target.style.cursor='pointer'"
+        onmouseout="event.target.style.cursor='default'"
+        onclick="Components.classes['@mozilla.org/appshell/window-mediator;1'].getService(Components.interfaces.nsIWindowMediator).getMostRecentWindow('navigator:browser').open('https://www.torproject.org/donate/donate.html.en')"/>
+    </label>
+  </vbox>
+</dialog>

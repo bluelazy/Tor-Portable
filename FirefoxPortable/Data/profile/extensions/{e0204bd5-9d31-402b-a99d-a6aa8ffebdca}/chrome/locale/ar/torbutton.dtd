@@ -1,0 +1,147 @@
+<!ENTITY torbutton.prefs.title "تفضيلات زر تور">
+<!ENTITY torbutton.prefs.display_settings "إعدادات العرض">
+<!ENTITY torbutton.prefs.display_panel "أظهر حالة الوسيط في شريط المتصفح">
+<!ENTITY torbutton.prefs.panel_format "صيغة عرض الحالة في الشريط:">
+<!ENTITY torbutton.prefs.panel_text_format "نص">
+<!ENTITY torbutton.prefs.panel_icon_format "أيقونة">
+<!ENTITY torbutton.prefs.tor_settings "إعدادات الوسيط">
+<!ENTITY torbutton.prefs.recommended_settings "استخدم إعدادات الوسيط المحبّذة لنسختي من فيرفكس">
+<!ENTITY torbutton.prefs.use_privoxy "استخدم Privoxy">
+<!ENTITY torbutton.prefs.use_polipo "استخدم Polipo">
+<!ENTITY torbutton.prefs.custom_settings "استخدم إعدادات وسيط مخصصة">
+<!ENTITY torbutton.prefs.proxy.host.http "وسيط HTTP:">
+<!ENTITY torbutton.prefs.proxy.host.https "وسيط SSL:">
+<!ENTITY torbutton.prefs.proxy.host.ftp "وسيط FTP:">
+<!ENTITY torbutton.prefs.proxy.host.gopher "وسيط Gopher:">
+<!ENTITY torbutton.prefs.proxy.host.socks "وسيط SOCKS:">
+<!ENTITY torbutton.prefs.proxy.port "المنفذ:">
+<!ENTITY torbutton.about.title "عن زر تور">
+<!ENTITY torbutton.about.version "الإصدار :">
+<!ENTITY torbutton.about.summary "إحمي خصوصية تصفحك لتور">
+<!ENTITY torbutton.about.code "المساهمون في الشفرة المصدرية :">
+<!ENTITY torbutton.about.maintainer "صائن:">
+<!ENTITY torbutton.about.security_review "المراجعة الامنية :">
+<!ENTITY torbutton.about.donate "إذا كنت تحب  إستخدام تور ، قد تفكر في">
+<!ENTITY torbutton.about.make_donation "قم بالتبرع .">
+<!ENTITY torbutton.pref_connection.notice "عطل زر تور لتغيير هذه الإعدادات.">
+<!ENTITY torbutton.pref_connection.more_info "مزيد من المعلومات">
+<!ENTITY torbutton.pref_connection_more_info.title "التعليمات">
+<!ENTITY torbutton.pref_connection_more_info.text "زر تور مفعّل حاليًا. إن كنت تريد تغيير إعدادات الوسيط غير المتعلقة بتور، فضلاً عطل زر تور أولاً ثم عد إلى هنا. إن كنت تريد تعديل إعدادات زر تور فاستخدم نافذة تفضيلات زر تور.">
+<!ENTITY torbutton.context_menu.new_identity "هوية جديدة">
+<!ENTITY torbutton.context_menu.new_identity_key "أنا">
+<!ENTITY torbutton.context_menu.toggle "بدّل حالة تور">
+<!ENTITY torbutton.context_menu.toggle.key "ت">
+<!ENTITY torbutton.context_menu.preferences "التفضيلات...">
+<!ENTITY torbutton.context_menu.preferences.key "ف">
+<!ENTITY torbutton.context_menu.about "عن زر تور...">
+<!ENTITY torbutton.context_menu.about.key "ح">
+<!ENTITY torbutton.context_menu.cookieProtections "كعكة الحماية">
+<!ENTITY torbutton.context_menu.cookieProtections.key "C">
+<!ENTITY torbutton.context_menu.copyTor "نسخ رابط تور">
+<!ENTITY torbutton.context_menu.copyTor.key "p">
+<!ENTITY torbutton.context_menu.openTorTab "فتح عنوان تور في علامة تبويب جديدة">
+<!ENTITY torbutton.context_menu.openTorTab.key "r">
+<!ENTITY torbutton.context_menu.openTorWindow "فتح عنوان تور في نافذة جديدة">
+<!ENTITY torbutton.context_menu.openTorWindow.key "d">
+<!ENTITY torbutton.button.label "زر تور">
+<!ENTITY torbutton.button.tooltip "انقر لبدء زر تور">
+<!ENTITY torbutton.prefs.sec_settings "إعدادات الأمان">
+<!ENTITY torbutton.prefs.block_thread "امنع قراءة تاريخ التصفح أثناء عمل تور (حَرِج)">
+<!ENTITY torbutton.prefs.block_thwrite "امنع كتابة تاريخ التصفح أثناء عمل تور (محبّذ)">
+<!ENTITY torbutton.prefs.block_nthread "امنع قراءة تاريخ التصفح أثناء توقف تور (اختياري)">
+<!ENTITY torbutton.prefs.block_nthwrite "امنع كتابة تاريخ التصفح أثناء توقف تور (اختياري)">
+<!ENTITY torbutton.prefs.clear_history "امسح تاريخ التصفح عند تغير حالة تور (اختياري)">
+<!ENTITY torbutton.prefs.clear_cache "امنع الاختزان على القرص مع تور وامسح كل البيانات عند تبديل حالة تور">
+<!ENTITY torbutton.prefs.block_cache "امنع الولوج إلى بيانات تور على القرص و الذاكرة أثناء عمل تور">
+<!ENTITY torbutton.prefs.cookie_jars "احفظ كعكات سوى تور في وعاء آمن ">
+<!ENTITY torbutton.prefs.cookie_protection "استخدام حوار كعكة الحماية للاختيار">
+<!ENTITY torbutton.prefs.mmm_cookies "سأدير الكعكات يدويًا (حَرِج)">
+<!ENTITY torbutton.prefs.clear_cookies "امسح الكعكات عند تبديل حالة تور">
+<!ENTITY torbutton.prefs.disable_plugins "عطّل الملحقات أثناء عمل التور (حَرِج)">
+<!ENTITY torbutton.prefs.kill_bad_js "احجز جافاسكربت الخطرة (حَرِج)">
+<!ENTITY torbutton.prefs.isolate_content "اعزل المحتوى الحركي عن حالة تور (حَرِج)">
+<!ENTITY torbutton.prefs.no_updates "عطل التحديثات أثناء استخدام تور">
+<!ENTITY torbutton.prefs.set_uagent "اضبط وكبل المستخدم لعمل التور (حَرِج)">
+<!ENTITY torbutton.prefs.dynamic "المحتوى الحركي">
+<!ENTITY torbutton.prefs.cookies "الكعكات">
+<!ENTITY torbutton.prefs.cache "المخبأ">
+<!ENTITY torbutton.prefs.history "السجل">
+<!ENTITY torbutton.prefs.no_search "امنع اقتراحات البحث أثناء عمل التور (محبّذ)">
+<!ENTITY torbutton.prefs.shutdown "أغلق المتصفح">
+<!ENTITY torbutton.prefs.tor_shutdown "امسح الكعكات عند إغلاق المتصفح أثناء عمل التور">
+<!ENTITY torbutton.prefs.all_shutdown "امسح الكعكات عند أي إغلاق للمتصفح">
+<!ENTITY torbutton.prefs.no_shutdown "لا تمسح الكعكات عند إغلاق المتصفح">
+<!ENTITY torbutton.prefs.disable_sessionstore "عطّل حفظ الجلسة (محبّذ)">
+<!ENTITY torbutton.prefs.headers "الترويسات">
+<!ENTITY torbutton.prefs.spoof_english "انتحل متصفحًا إنجليزيًا أمريكيًا">
+<!ENTITY torbutton.prefs.refererspoofing "مرجعية خداعه">
+<!ENTITY torbutton.prefs.spoofblank "Spoof blank referer during Tor usage (may break some sites)">
+<!ENTITY torbutton.prefs.smartspoof "محاكاة ساخرة ذكية للتحويل أثناء عمل تور (سخرية المجال المرجعي المتقاطع)">
+<!ENTITY torbutton.prefs.nospoof "No referer spoof during Tor usage (sends referers as normal)">
+<!ENTITY torbutton.prefs.disable_domstorage "عطّل تخزين DOM أثناء عمل التور (حَرِج)">
+<!ENTITY torbutton.prefs.forms "الإكمال التلقائي">
+<!ENTITY torbutton.prefs.block_tforms "امنع حفظ كلمات السر و والإكمال التلقائي أثناء عمل التور (محبّذ)">
+<!ENTITY torbutton.prefs.block_ntforms "امنع حفظ كلمات السر والإكمال التلقائي أثناء تعطل التور (اختياري)">
+<!ENTITY torbutton.prefs.tor "التور">
+<!ENTITY torbutton.prefs.non_tor "التور معطل">
+<!ENTITY torbutton.prefs.restore_tor "خلال بدء استعادة الجلسة، اضبط حالة التور إلى:">
+<!ENTITY torbutton.prefs.startup_tor "عند بدء التشغيل المتصفح ، تعيين جالة تور إلى:">
+<!ENTITY torbutton.prefs.reload_crashed_jar "أعد تحميل وعاء الكعكات/امسح الكعكات عند انهيار فيرفكس (محبّذ)">
+<!ENTITY torbutton.prefs.dual_cookie_jars "احفظ الكعكات عن تفعيل تور وعند تعطيله في أوعية محمية (خطر)">
+<!ENTITY torbutton.prefs.clear_http_auth "امسح جلسات المصادقة لـ HTTP (محبّذ)">
+<!ENTITY torbutton.prefs.block_js_history "امنع نفاذ جافاسكربت إلى تصفح التاريخ (حَرِج)">
+<!ENTITY torbutton.prefs.resize_on_toggle "أعد تحجيم النوافذ إلى مضاعفات 50 بيكسل عند تغير الحالة (محبّذ)">
+<!ENTITY torbutton.prefs.close_tor "أغلق كل نوافذ وتبويبات التور عند تغيير الحالة (اختياري)">
+<!ENTITY torbutton.prefs.close_nontor "أغلق كل نوافذ و تبويبات غير التور عند تغيير الحالة (اختياري)">
+<!ENTITY torbutton.prefs.block_links "امنع نقر الروابط و إعادة تحميل الصفحات بين حالات التور المختلفة (اختياري)">
+<!ENTITY torbutton.prefs.jar_certs "حفظ بيانات SSL في ملفات مختلفة لأجل التور/التور معطل (محبّذ) ">
+<!ENTITY torbutton.prefs.jar_ca_certs "حفظ بيانات CA في ملفات مختلفة لأجل التور/التور معطل (محبّذ) ">
+<!ENTITY torbutton.prefs.locked_mode "عطّل المفاتيح وإختصارات المفاتيح  لتجنب تغيير حالة التور بالخطأ">
+<!ENTITY torbutton.prefs.startup_state "خلال عمليات البدء العادية، اضبط حالة تور:">
+<!ENTITY torbutton.prefs.shutdown_state "حالة الإيقاف">
+<!ENTITY torbutton.prefs.startup "البدء">
+<!ENTITY torbutton.prefs.block_tor_file_net "امنع النفاذ إلى الشبكة من مسارات file:// (محبّذ)">
+<!ENTITY torbutton.prefs.block_nontor_file_net "امنع وصول التور معطل إلى الشبكة من عناين file://">
+<!ENTITY torbutton.prefs.restore_defaults "استعادة الافتراضيات">
+<!ENTITY torbutton.prefs.test_settings "فحص الإعدادات">
+<!ENTITY torbutton.prefs.test_auto "افحص إعدادات تور بعد أول تشغيل كل مرة يتم تشغيل فيرفكس">
+<!ENTITY torbutton.prefs.disable_livemarks "Disable livemarks updates during Tor usage">
+<!ENTITY torbutton.prefs.tor_memory_jar "لا تحفظ الكعكات في القرص إذا كان التور مفعلًا">
+<!ENTITY torbutton.prefs.nontor_memory_jar "لا تحفظ الكعكات في القرص إن كان تور معطلًا">
+<!ENTITY torbutton.prefs.session_restore "حفظ الجلسة واستعادة هذه  التبويبات:">
+<!ENTITY torbutton.prefs.nontor_tabs "تبويبات محملة في وضع التور معطل">
+<!ENTITY torbutton.prefs.tor_tabs "تبويبات محملة باستخدام التور">
+<!ENTITY torbutton.prefs.socks_vfour "SOCKS v4">
+<!ENTITY torbutton.prefs.socks_vfive "SOCKS v5">
+<!ENTITY torbutton.prefs.no_proxies_on "لا وسيط ل:">
+<!ENTITY torbutton.prefs.no_proxy_warning "تحذير: تجنب استخدام أي من أسماء المضيف المذكورة أعلاه">
+<!ENTITY torbutton.prefs.spoofreresh "تحديث المحاكاة الساخرة">
+<!ENTITY torbutton.prefs.refereroptions "خيارات المرجعية الساخرة">
+<!ENTITY torbutton.prefs.nospoof "لا تستخدم محاكاة مرجعية ساخرة">
+<!ENTITY torbutton.prefs.spoofroot "محاكاة ساخرة المجلد الذي يحتوي على الصفحة">
+<!ENTITY torbutton.prefs.spoofdomain "محاكاة ساخرة المجال مثل المرجعية">
+<!ENTITY torbutton.prefs.spoofblank "إجعل المرجعية فارغة">
+<!ENTITY torbutton.cookiedialog.title "إدارة كعكات الحماية">
+<!ENTITY torbutton.cookiedialog.lockCol "محمية">
+<!ENTITY torbutton.cookiedialog.domainCol "استضافة">
+<!ENTITY torbutton.cookiedialog.nameCol "اسم">
+<!ENTITY torbutton.cookiedialog.pathCol "المسار">
+<!ENTITY torbutton.cookiedialog.protectCookie "كعكة الحماية">
+<!ENTITY torbutton.cookiedialog.removeCookie "إزالة الكعك">
+<!ENTITY torbutton.cookiedialog.unprotectCookie "إلغاء كعكة الحماية">
+<!ENTITY torbutton.cookiedialog.removeAllBut "إزالة الكل لكن استمر في الحماية">
+<!ENTITY torbutton.cookiedialog.saveAllCookies "كعكة حماية جديدة">
+<!ENTITY torbutton.cookiedialog.doNotSaveAllCookies "لا تحمي الكعكات الجديدة">
+<!ENTITY torbutton.prefs.disable_livemarks "تعطيل العلامات الحية خلال إستعمال التور">
+<!ENTITY torbutton.prefs.dtd_recommended "(محبّذ)">
+<!ENTITY torbutton.prefs.dtd_optional "(اختياري)">
+<!ENTITY torbutton.prefs.dtd_crucial "(حَرِج)">
+<!ENTITY torbutton.prefs.update_torbutton_via_tor "أعد توجيه تحديثات زر تور خلال شبكة التور">
+<!ENTITY torbutton.prefs.dodge_google_captcha "تلقائياً استخدم محرك بحث بديل عندما يتم إظهار كلمة التحقق الخاصة بقوقل (Google):">
+<!ENTITY torbutton.prefs.engine1 "ixquick.com">
+<!ENTITY torbutton.prefs.engine2 "Bing.com">
+<!ENTITY torbutton.prefs.engine3 "Yahoo.com">
+<!ENTITY torbutton.prefs.engine4 "صفحة البداية">
+<!ENTITY torbutton.prefs.engine5 "duckduckgo.com">
+<!ENTITY torbutton.prefs.fix_google_srch "أزل المنصة واللغة من استفسارات محرك بحث غوغل">
+<!ENTITY torbutton.prefs.transparentTor "شفافية توريفكيشن (تحتاج موجه تور أو ترانسبوكسي مخصص)">

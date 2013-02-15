@@ -1,0 +1,147 @@
+<!ENTITY torbutton.prefs.title "Tùy chỉnh Torbutton">
+<!ENTITY torbutton.prefs.display_settings "Thiết lập Hiển thị">
+<!ENTITY torbutton.prefs.display_panel "Hiển thị thiết lập proxy Tor trong thanh trạng thái">
+<!ENTITY torbutton.prefs.panel_format "Định dạng hiển thị thanh trạng thái:">
+<!ENTITY torbutton.prefs.panel_text_format "Chữ">
+<!ENTITY torbutton.prefs.panel_icon_format "Biểu tượng">
+<!ENTITY torbutton.prefs.tor_settings "Thiết lập Proxy">
+<!ENTITY torbutton.prefs.recommended_settings "Dùng thiết lập proxy đã khuyến nghị cho Firefox của tôi">
+<!ENTITY torbutton.prefs.use_privoxy "Dùng Privoxy">
+<!ENTITY torbutton.prefs.use_polipo "Dùng Polipo">
+<!ENTITY torbutton.prefs.custom_settings "Dùng thiết lập proxy tùy biến">
+<!ENTITY torbutton.prefs.proxy.host.http "HTTP Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.https "SSL Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.ftp "FTP Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.gopher "Gopher Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.socks "SOCKS Host:">
+<!ENTITY torbutton.prefs.proxy.port "Cổng:">
+<!ENTITY torbutton.about.title "Thông tin về Torbutton">
+<!ENTITY torbutton.about.version "Version:">
+<!ENTITY torbutton.about.summary "Protects the privacy of your Tor browsing.">
+<!ENTITY torbutton.about.code "Code Contributors:">
+<!ENTITY torbutton.about.maintainer "Maintainer:">
+<!ENTITY torbutton.about.security_review "Security Review:">
+<!ENTITY torbutton.about.donate "If you like using Tor, you might consider">
+<!ENTITY torbutton.about.make_donation "making a donation.">
+<!ENTITY torbutton.pref_connection.notice "Tắt Torbutton để thay đổi các thiết lập này.">
+<!ENTITY torbutton.pref_connection.more_info "Thông tin thêm">
+<!ENTITY torbutton.pref_connection_more_info.title "Trợ giúp">
+<!ENTITY torbutton.pref_connection_more_info.text "Torbutton hiện đang được bật.  Nếu bạn muốn thay đổi thiết lập proxy không-Tor của bạn, vui lòng tắt Torbutton và quay trở lại đây.  Nếu bạn muốn thay đổi thiết lập Tor, vui lòng dùng cửa sổ tùy chỉnh Torbutton.">
+<!ENTITY torbutton.context_menu.new_identity "New Identity">
+<!ENTITY torbutton.context_menu.new_identity_key "I">
+<!ENTITY torbutton.context_menu.toggle "Bật/tắt trạng thái Tor">
+<!ENTITY torbutton.context_menu.toggle.key "B">
+<!ENTITY torbutton.context_menu.preferences "Tùy chỉnh...">
+<!ENTITY torbutton.context_menu.preferences.key "y">
+<!ENTITY torbutton.context_menu.about "Thông tin về Torbutton...">
+<!ENTITY torbutton.context_menu.about.key "T">
+<!ENTITY torbutton.context_menu.cookieProtections "Cookie Protections">
+<!ENTITY torbutton.context_menu.cookieProtections.key "C">
+<!ENTITY torbutton.context_menu.copyTor "Copy Tor URL">
+<!ENTITY torbutton.context_menu.copyTor.key "p">
+<!ENTITY torbutton.context_menu.openTorTab "Open Tor URL in new Tab">
+<!ENTITY torbutton.context_menu.openTorTab.key "r">
+<!ENTITY torbutton.context_menu.openTorWindow "Open Tor URL in new Window">
+<!ENTITY torbutton.context_menu.openTorWindow.key "d">
+<!ENTITY torbutton.button.label "Torbutton">
+<!ENTITY torbutton.button.tooltip "Nhấn để nhận diện Torbutton">
+<!ENTITY torbutton.prefs.sec_settings "Thiết lập Bảo mật">
+<!ENTITY torbutton.prefs.block_thread "Chặn việc đọc lược sử trong quá trình Tor (cấp thiết)">
+<!ENTITY torbutton.prefs.block_thwrite "Chặn việc ghi lược sử trong quá trình Tor (khuyến cáo)">
+<!ENTITY torbutton.prefs.block_nthread "Chặn việc đọc lược sử trong quá trình Không-Tor (phụ)">
+<!ENTITY torbutton.prefs.block_nthwrite "Chặn việc ghi lược sử trong quá trình Không-Tor (phụ)">
+<!ENTITY torbutton.prefs.clear_history "Xóa lược sử khi bật tắt Tor (phụ)">
+<!ENTITY torbutton.prefs.clear_cache "Chặn bộ đệm đĩa Tor và xóa tất cả các tập tin đệm khi bật tắt Tor">
+<!ENTITY torbutton.prefs.block_cache "Chặn truy cập bộ đệm trên đĩa và bộ nhớ trong quá trình Tor">
+<!ENTITY torbutton.prefs.cookie_jars "Lưu trữ cookie Không-Tor trong một tập tin jar được bảo vệ">
+<!ENTITY torbutton.prefs.cookie_protection "Use the Cookie Protections Dialog to choose">
+<!ENTITY torbutton.prefs.mmm_cookies "Tôi sẽ tự quản lí cookie của tôi (nguy hiểm)">
+<!ENTITY torbutton.prefs.clear_cookies "Xóa cookie khi bật tắt Tor">
+<!ENTITY torbutton.prefs.disable_plugins "Vô hiệu hóa phần bổ trợ trong quá trình dùng Tor (cấp thiết)">
+<!ENTITY torbutton.prefs.kill_bad_js "Treo cứng các javascript nguy hiểm (cấp thiết)">
+<!ENTITY torbutton.prefs.isolate_content "Cô lập các nội dung động bên ngoài tình trạng Tor (cấp thiết)">
+<!ENTITY torbutton.prefs.no_updates "Vô hiệu hóa cập nhật trong quá trình dùng Tor">
+<!ENTITY torbutton.prefs.set_uagent "Thiết lập user agent cho việc dùng Tor (cấp thiết)">
+<!ENTITY torbutton.prefs.dynamic "Nội dung Động">
+<!ENTITY torbutton.prefs.cookies "Cookie">
+<!ENTITY torbutton.prefs.cache "Bộ đệm">
+<!ENTITY torbutton.prefs.history "Lược sử">
+<!ENTITY torbutton.prefs.no_search "Vô hiệu hóa đề xuất tìm kiếm trong quá trình Tor (khuyến cáo)">
+<!ENTITY torbutton.prefs.shutdown "Tắt trình duyệt">
+<!ENTITY torbutton.prefs.tor_shutdown "Xóa cookie Tor trong quá trình tắt trình duyệt đang chạy Tor">
+<!ENTITY torbutton.prefs.all_shutdown "Xóa cookie trong mọi quá trình tắt trình duyệt">
+<!ENTITY torbutton.prefs.no_shutdown "Không xóa cookie của tôi khi tắt trình duyệt">
+<!ENTITY torbutton.prefs.disable_sessionstore "Vô hiệu hóa Lưu Phiên Duyệt Web (khuyến cáo)">
+<!ENTITY torbutton.prefs.headers "Đầu đề">
+<!ENTITY torbutton.prefs.spoof_english "Bắt chước Trình duyệt Tiếng Anh-Mỹ">
+<!ENTITY torbutton.prefs.refererspoofing "Referer spoofing">
+<!ENTITY torbutton.prefs.spoofblank "Spoof blank referer during Tor usage (may break some sites)">
+<!ENTITY torbutton.prefs.smartspoof "Smart referer spoof during Tor usage (spoofs cross domain referers)">
+<!ENTITY torbutton.prefs.nospoof "No referer spoof during Tor usage (sends referers as normal)">
+<!ENTITY torbutton.prefs.disable_domstorage "Vô hiệu hóa Lưu trữ DOM trong quá trình dùng Tor (cấp thiết)">
+<!ENTITY torbutton.prefs.forms "Biểu mẫu">
+<!ENTITY torbutton.prefs.block_tforms "Chặn việc lưu biểu mẫu+mật khẩu trong quá trình Tor (khuyến cáo)">
+<!ENTITY torbutton.prefs.block_ntforms "Chặn việc lưu biểu mẫu+mật khẩu trong quá trình Không-Tor (phụ)">
+<!ENTITY torbutton.prefs.tor "Tor">
+<!ENTITY torbutton.prefs.non_tor "Không-Tor">
+<!ENTITY torbutton.prefs.restore_tor "Khi khởi chạy cùng phiên được khôi phục, thiết lập tình trạng Tor thành:">
+<!ENTITY torbutton.prefs.startup_tor "Khi trình duyệt khởi động, thiết lập trạng thái Tor thành:">
+<!ENTITY torbutton.prefs.reload_crashed_jar "Tải lại jar cookie/xóa cookie khi Firefox bị đổ vỡ (khuyến cáo)">
+<!ENTITY torbutton.prefs.dual_cookie_jars "Lưu trữ cả Tor và Không-Tor trong các tập tin jar được bảo vệ (nguy hiểm)">
+<!ENTITY torbutton.prefs.clear_http_auth "Xóa các phiên xác thực HTTP (khuyến cáo)">
+<!ENTITY torbutton.prefs.block_js_history "Cô lập việc truy cập lược sử khỏi tình trạng Tor (cấp thiết)">
+<!ENTITY torbutton.prefs.resize_on_toggle "Chỉnh kích thước cửa sổ thành bội số của 50px trong quá trình dùng Tor (khuyến cáo)">
+<!ENTITY torbutton.prefs.close_tor "Đóng tất cả các cửa sổ và thẻ Tor khi bật tắt (phụ)">
+<!ENTITY torbutton.prefs.close_nontor "Đóng tất cả các cửa sổ và thẻ Không-Tor khi bật tắt (phụ)">
+<!ENTITY torbutton.prefs.block_links "Chặn việc nhấp chuột lên liên kết và việc tải lại trang trong các tình trạng Tor khác nhau (phụ)">
+<!ENTITY torbutton.prefs.jar_certs "Lưu trữ chứng thư SSL trong các tập tin jar tách biệt cho Tor/Không-Tor (khuyến cáo)">
+<!ENTITY torbutton.prefs.jar_ca_certs "Lưu trữ chứng thư CA trong các tập tin jar tách biệt cho Tor/Không-Tor (khuyến cáo)">
+<!ENTITY torbutton.prefs.locked_mode "Vô hiệu hóa Nút và Phím Nóng để ngăn việc vô tình bật tắt">
+<!ENTITY torbutton.prefs.startup_state "Khi khởi chạy bình thường, thiết lập tình trạng Tor thành:">
+<!ENTITY torbutton.prefs.shutdown_state "Tình trạng tắt trình duyệt">
+<!ENTITY torbutton.prefs.startup "Khởi chạy">
+<!ENTITY torbutton.prefs.block_tor_file_net "Chặn truy cập Tor từ các liên kết file:// (khuyến cáo)">
+<!ENTITY torbutton.prefs.block_nontor_file_net "Chặn truy cập Không-Tor từ các liên kết file://">
+<!ENTITY torbutton.prefs.restore_defaults "Khôi phục Mặc định">
+<!ENTITY torbutton.prefs.test_settings "Thiết lập Thử nghiệm">
+<!ENTITY torbutton.prefs.test_auto "Thử nghiệm thiết lập Tor của tôi sau lần bật/tắt đầu tiên mỗi khi khởi động Firefox">
+<!ENTITY torbutton.prefs.disable_livemarks "Disable livemarks updates during Tor usage">
+<!ENTITY torbutton.prefs.tor_memory_jar "Không ghi cookie Tor vào đĩa">
+<!ENTITY torbutton.prefs.nontor_memory_jar "Không ghi cookie Không-Tor vào đĩa">
+<!ENTITY torbutton.prefs.session_restore "Để phiên lưu trữ và khôi phục các thẻ sau:">
+<!ENTITY torbutton.prefs.nontor_tabs "Thẻ được mở trong Không-Tor">
+<!ENTITY torbutton.prefs.tor_tabs "Thẻ được mở trong Tor">
+<!ENTITY torbutton.prefs.socks_vfour "SOCKS v4">
+<!ENTITY torbutton.prefs.socks_vfive "SOCKS v5">
+<!ENTITY torbutton.prefs.no_proxies_on "Không có Ủy nhiệm cho:">
+<!ENTITY torbutton.prefs.no_proxy_warning "Cảnh báo: Tránh sử dụng bất kỳ tên máy chủ ở trên">
+<!ENTITY torbutton.prefs.spoofreresh "Spoof Refresh">
+<!ENTITY torbutton.prefs.refereroptions "Referer Spoofing Options">
+<!ENTITY torbutton.prefs.nospoof "Do not spoof referer">
+<!ENTITY torbutton.prefs.spoofroot "Spoof the containing folder of the page">
+<!ENTITY torbutton.prefs.spoofdomain "Spoof the domain as referer">
+<!ENTITY torbutton.prefs.spoofblank "Make referer blank">
+<!ENTITY torbutton.cookiedialog.title "Manage Cookie Protections">
+<!ENTITY torbutton.cookiedialog.lockCol "Protected">
+<!ENTITY torbutton.cookiedialog.domainCol "Host">
+<!ENTITY torbutton.cookiedialog.nameCol "Name">
+<!ENTITY torbutton.cookiedialog.pathCol "Path">
+<!ENTITY torbutton.cookiedialog.protectCookie "Protect Cookie">
+<!ENTITY torbutton.cookiedialog.removeCookie "Remove Cookie">
+<!ENTITY torbutton.cookiedialog.unprotectCookie "Unprotect Cookie">
+<!ENTITY torbutton.cookiedialog.removeAllBut "Remove All But Protected">
+<!ENTITY torbutton.cookiedialog.saveAllCookies "Protect New Cookies">
+<!ENTITY torbutton.cookiedialog.doNotSaveAllCookies "Do Not Protect New Cookies">
+<!ENTITY torbutton.prefs.disable_livemarks "Vô hiệu hóa việc cập nhật đánh-dấu-động trong quá trình dùng Tor">
+<!ENTITY torbutton.prefs.dtd_recommended "(recommended)">
+<!ENTITY torbutton.prefs.dtd_optional "(optional)">
+<!ENTITY torbutton.prefs.dtd_crucial "(crucial)">
+<!ENTITY torbutton.prefs.update_torbutton_via_tor "Redirect Torbutton updates through Tor">
+<!ENTITY torbutton.prefs.dodge_google_captcha "Automatically use an alternate search engine when presented with a Google Captcha:">
+<!ENTITY torbutton.prefs.engine1 "ixquick.com">
+<!ENTITY torbutton.prefs.engine2 "Bing.com">
+<!ENTITY torbutton.prefs.engine3 "Yahoo.com">
+<!ENTITY torbutton.prefs.engine4 "startpage.com">
+<!ENTITY torbutton.prefs.engine5 "duckduckgo.com">
+<!ENTITY torbutton.prefs.fix_google_srch "Strip platform and language off of Google Search Box queries">
+<!ENTITY torbutton.prefs.transparentTor "Transparent Torification (Requires custom transproxy or Tor router)">

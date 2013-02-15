@@ -1,0 +1,147 @@
+<!ENTITY torbutton.prefs.title "Preferensi Torbutton">
+<!ENTITY torbutton.prefs.display_settings "Pengaturan Tampilan">
+<!ENTITY torbutton.prefs.display_panel "Tampilkan pengaturan proxy Tor pada status bar">
+<!ENTITY torbutton.prefs.panel_format "Susunan tampilan status bar">
+<!ENTITY torbutton.prefs.panel_text_format "Teks">
+<!ENTITY torbutton.prefs.panel_icon_format "Ikon">
+<!ENTITY torbutton.prefs.tor_settings "Pengaturan proxy">
+<!ENTITY torbutton.prefs.recommended_settings "Gunakan pengaturan proxy yang disarankan untuk versi Firefox saya">
+<!ENTITY torbutton.prefs.use_privoxy "Gunakan Privoxy">
+<!ENTITY torbutton.prefs.use_polipo "Gunakan Polipo">
+<!ENTITY torbutton.prefs.custom_settings "Gunakan pengaturan proxy yang disesuaikan">
+<!ENTITY torbutton.prefs.proxy.host.http "HTTP Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.https "SSL Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.ftp "FTP Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.gopher "Gopher Proxy:">
+<!ENTITY torbutton.prefs.proxy.host.socks "SOCKS Host:">
+<!ENTITY torbutton.prefs.proxy.port "Port:">
+<!ENTITY torbutton.about.title "Tentang Torbutton">
+<!ENTITY torbutton.about.version "Version:">
+<!ENTITY torbutton.about.summary "Protects the privacy of your Tor browsing.">
+<!ENTITY torbutton.about.code "Code Contributors:">
+<!ENTITY torbutton.about.maintainer "Maintainer:">
+<!ENTITY torbutton.about.security_review "Security Review:">
+<!ENTITY torbutton.about.donate "If you like using Tor, you might consider">
+<!ENTITY torbutton.about.make_donation "making a donation.">
+<!ENTITY torbutton.pref_connection.notice "Nonaktifkan Torbutton mengubah pengaturan ini.">
+<!ENTITY torbutton.pref_connection.more_info "Informasi lebih lanjut">
+<!ENTITY torbutton.pref_connection_more_info.title "Bantuan">
+<!ENTITY torbutton.pref_connection_more_info.text "Torbutton sedang aktif.  Apabila Anda ingin mengubah pengaturan proxy selain proxy Tor, Silahkan nonaktifkan Torbutton dan kembali ke sini.  Apabila Anda ingin mengubah pengaturan Tor, silahkan gunakan jendela preferensi Torbutton.">
+<!ENTITY torbutton.context_menu.new_identity "New Identity">
+<!ENTITY torbutton.context_menu.new_identity_key "I">
+<!ENTITY torbutton.context_menu.toggle "Alihkan Status Tor">
+<!ENTITY torbutton.context_menu.toggle.key "T">
+<!ENTITY torbutton.context_menu.preferences "Preferensi...">
+<!ENTITY torbutton.context_menu.preferences.key "P">
+<!ENTITY torbutton.context_menu.about "Tentang Torbutton...">
+<!ENTITY torbutton.context_menu.about.key "A">
+<!ENTITY torbutton.context_menu.cookieProtections "Cookie Protections">
+<!ENTITY torbutton.context_menu.cookieProtections.key "C">
+<!ENTITY torbutton.context_menu.copyTor "Copy Tor URL">
+<!ENTITY torbutton.context_menu.copyTor.key "p">
+<!ENTITY torbutton.context_menu.openTorTab "Open Tor URL in new Tab">
+<!ENTITY torbutton.context_menu.openTorTab.key "r">
+<!ENTITY torbutton.context_menu.openTorWindow "Open Tor URL in new Window">
+<!ENTITY torbutton.context_menu.openTorWindow.key "d">
+<!ENTITY torbutton.button.label "Torbutton">
+<!ENTITY torbutton.button.tooltip "Klik untuk mengaktifkan Torbutton">
+<!ENTITY torbutton.prefs.sec_settings "Pengaturan Keamanan">
+<!ENTITY torbutton.prefs.block_thread "Blokir pembacaan riwayat selama sesi Tor (krusial)">
+<!ENTITY torbutton.prefs.block_thwrite "Blokir penulisan riwayat selama sesi Tor (disarankan)">
+<!ENTITY torbutton.prefs.block_nthread "Blokir pembacaan riwayat selama sesi Non-Tor (opsional)">
+<!ENTITY torbutton.prefs.block_nthwrite "Blokir penulisan riwayat selama sesi Non-Tor (opsional)">
+<!ENTITY torbutton.prefs.clear_history "Bersihkan riwayat pada saat peralihan status Tor (opsional)">
+<!ENTITY torbutton.prefs.clear_cache "Blokir disk cache dan bersihkan semua cache pada saat peralihan status Tor">
+<!ENTITY torbutton.prefs.block_cache "Blokir akses cache memori dan disk selama sesi Tor">
+<!ENTITY torbutton.prefs.cookie_jars "Simpan cookie Non-Tor dalam jar terproteksi">
+<!ENTITY torbutton.prefs.cookie_protection "Use the Cookie Protections Dialog to choose">
+<!ENTITY torbutton.prefs.mmm_cookies "Saya akan mengelola cookie saya secara manual (berbahaya)">
+<!ENTITY torbutton.prefs.clear_cookies "Bersihkan cookie pada saat peralihan status Tor">
+<!ENTITY torbutton.prefs.disable_plugins "Nonaktifkan plugin selama menggunakan Tor (krusial)">
+<!ENTITY torbutton.prefs.kill_bad_js "Tahan javascript yang berbahaya (krusial)">
+<!ENTITY torbutton.prefs.isolate_content "Isolasi konten dinamis pada kondisi Tor (krusial)">
+<!ENTITY torbutton.prefs.no_updates "Nonaktifkan update selama penggunaan Tor">
+<!ENTITY torbutton.prefs.set_uagent "Tetapkan agen pengguna untuk penggunaan Tor (krusial)">
+<!ENTITY torbutton.prefs.dynamic "Konten Dinamis">
+<!ENTITY torbutton.prefs.cookies "Cookie">
+<!ENTITY torbutton.prefs.cache "Cache">
+<!ENTITY torbutton.prefs.history "Riwayat">
+<!ENTITY torbutton.prefs.no_search "Nonaktifkan saran pencarian selama sesi Tor (disarankan)">
+<!ENTITY torbutton.prefs.shutdown "Matikan">
+<!ENTITY torbutton.prefs.tor_shutdown "Bersihkan cookie Tor saat mematikan browser dengan Tor aktif">
+<!ENTITY torbutton.prefs.all_shutdown "Bersihkan cookie saat mematikan browser dengan kondisi apapun">
+<!ENTITY torbutton.prefs.no_shutdown "Jangan bersihkan cookie saya ketika mematikan browser">
+<!ENTITY torbutton.prefs.disable_sessionstore "Nonaktifkan Penyimpanan Sesi (disarankan)">
+<!ENTITY torbutton.prefs.headers "Header">
+<!ENTITY torbutton.prefs.spoof_english "Aktifkan penyamar untuk browser US-English">
+<!ENTITY torbutton.prefs.refererspoofing "Referer spoofing">
+<!ENTITY torbutton.prefs.spoofblank "Spoof blank referer during Tor usage (may break some sites)">
+<!ENTITY torbutton.prefs.smartspoof "Smart referer spoof during Tor usage (spoofs cross domain referers)">
+<!ENTITY torbutton.prefs.nospoof "No referer spoof during Tor usage (sends referers as normal)">
+<!ENTITY torbutton.prefs.disable_domstorage "Nonaktifkan penyimpanan DOM selama penggunaan Tor (krusial)">
+<!ENTITY torbutton.prefs.forms "Formulir">
+<!ENTITY torbutton.prefs.block_tforms "Blokir penyimpanan password+formulir selama sesi Tor (disarankan)">
+<!ENTITY torbutton.prefs.block_ntforms "Blokir penyimpanan password+formulir selama sesi Non-Tor (opsional)">
+<!ENTITY torbutton.prefs.tor "Tor">
+<!ENTITY torbutton.prefs.non_tor "Non-Tor">
+<!ENTITY torbutton.prefs.restore_tor "Saat memulai browser dengan sesi dipulihkan, tetapkan kondisi Tor:">
+<!ENTITY torbutton.prefs.startup_tor "On browser startup, set Tor state to:">
+<!ENTITY torbutton.prefs.reload_crashed_jar "Muat ulang cookie jar/bersihkan cookie saat Firefox mengalami kerusakan (disarankan)">
+<!ENTITY torbutton.prefs.dual_cookie_jars "Simpan baik cookie Tor maupun Non-Tor dalam jar terproteksi (berbahaya)">
+<!ENTITY torbutton.prefs.clear_http_auth "Bersihkan sesi HTTP terotorisasi (disarankan)">
+<!ENTITY torbutton.prefs.block_js_history "Isolasi akses ke riwayat navigasi pada kondisi Tor (krusial)">
+<!ENTITY torbutton.prefs.resize_on_toggle "Ubah ukuran jendela ke kelipatan 50px selama penggunaan Tor (disarankan)">
+<!ENTITY torbutton.prefs.close_tor "Tutup semua jendela Tor dan Tab pada saat peralihan (opsional)">
+<!ENTITY torbutton.prefs.close_nontor "Tutup semua jendela Non-Tor dan Tab pada saat peralihan (opsional)">
+<!ENTITY torbutton.prefs.block_links "Blokir klik tautan dan pemuatulangan halaman dari kondisi Tor yang berbeda (opsional)">
+<!ENTITY torbutton.prefs.jar_certs "Simpan sertifikat SSL dalam jar terpisah untuk Tor/Non-Tor (disarankan)">
+<!ENTITY torbutton.prefs.jar_ca_certs "Simpan sertifikat CA dalam jar terpisah untuk Tor/Non-Tor (disarankan)">
+<!ENTITY torbutton.prefs.locked_mode "Nonaktifkan tombol pintas untuk mencegah peralihan tak disengaja">
+<!ENTITY torbutton.prefs.startup_state "Pada startup normal, tetapkan status Tor:">
+<!ENTITY torbutton.prefs.shutdown_state "Kondisi mati">
+<!ENTITY torbutton.prefs.startup "Startup">
+<!ENTITY torbutton.prefs.block_tor_file_net "Blokir akses Tor ke jaringan dari file:// urls (disarankan)">
+<!ENTITY torbutton.prefs.block_nontor_file_net "Blokir akses Non-Tor ke jaringan dari file:// urls (disarankan)">
+<!ENTITY torbutton.prefs.restore_defaults "Kembalikan ke asal">
+<!ENTITY torbutton.prefs.test_settings "Uji pengaturan">
+<!ENTITY torbutton.prefs.test_auto "Uji pengaturan Tor saya setelah saya melakukan peralihan yang pertama setiap kali Firefox dimulai">
+<!ENTITY torbutton.prefs.disable_livemarks "Disable livemarks updates during Tor usage">
+<!ENTITY torbutton.prefs.tor_memory_jar "Jangan tulis cookie Tor ke disk">
+<!ENTITY torbutton.prefs.nontor_memory_jar "Jangan tulis cookie Non-Tor ke disk">
+<!ENTITY torbutton.prefs.session_restore "Simpan dan pulihkan tab berikut:">
+<!ENTITY torbutton.prefs.nontor_tabs "Tab dimuat dalam kondisi Non-Tor">
+<!ENTITY torbutton.prefs.tor_tabs "Tab dimuat dalam kondisi Tor">
+<!ENTITY torbutton.prefs.socks_vfour "SOCKS V4">
+<!ENTITY torbutton.prefs.socks_vfive "SOCKS V5">
+<!ENTITY torbutton.prefs.no_proxies_on "Jangan gunakan proxy untuk: ">
+<!ENTITY torbutton.prefs.no_proxy_warning "Peringatan: Hindari penggunaan hostname di atas">
+<!ENTITY torbutton.prefs.spoofreresh "Spoof Refresh">
+<!ENTITY torbutton.prefs.refereroptions "Referer Spoofing Options">
+<!ENTITY torbutton.prefs.nospoof "Do not spoof referer">
+<!ENTITY torbutton.prefs.spoofroot "Spoof the containing folder of the page">
+<!ENTITY torbutton.prefs.spoofdomain "Spoof the domain as referer">
+<!ENTITY torbutton.prefs.spoofblank "Make referer blank">
+<!ENTITY torbutton.cookiedialog.title "Manage Cookie Protections">
+<!ENTITY torbutton.cookiedialog.lockCol "Protected">
+<!ENTITY torbutton.cookiedialog.domainCol "Host">
+<!ENTITY torbutton.cookiedialog.nameCol "Name">
+<!ENTITY torbutton.cookiedialog.pathCol "Path">
+<!ENTITY torbutton.cookiedialog.protectCookie "Protect Cookie">
+<!ENTITY torbutton.cookiedialog.removeCookie "Remove Cookie">
+<!ENTITY torbutton.cookiedialog.unprotectCookie "Unprotect Cookie">
+<!ENTITY torbutton.cookiedialog.removeAllBut "Remove All But Protected">
+<!ENTITY torbutton.cookiedialog.saveAllCookies "Protect New Cookies">
+<!ENTITY torbutton.cookiedialog.doNotSaveAllCookies "Do Not Protect New Cookies">
+<!ENTITY torbutton.prefs.disable_livemarks "Nonaktifkan update Livemark selama penggunaan Tor">
+<!ENTITY torbutton.prefs.dtd_recommended "(disarankan)">
+<!ENTITY torbutton.prefs.dtd_optional "(opsional)">
+<!ENTITY torbutton.prefs.dtd_crucial "(krusial)">
+<!ENTITY torbutton.prefs.update_torbutton_via_tor "Alihkan rute Torbutton melalui Tor">
+<!ENTITY torbutton.prefs.dodge_google_captcha "Gunakan mesin pencari alternatif secara otomatis apabila dihadapkan pada Captcha Google:">
+<!ENTITY torbutton.prefs.engine1 "ixquick.com">
+<!ENTITY torbutton.prefs.engine2 "Bing.com">
+<!ENTITY torbutton.prefs.engine3 "Yahoo.com">
+<!ENTITY torbutton.prefs.engine4 "startpage.com">
+<!ENTITY torbutton.prefs.engine5 "duckduckgo.com">
+<!ENTITY torbutton.prefs.fix_google_srch "Lepaskan serambi dan bahasa dari Kotak Pencarian Google">
+<!ENTITY torbutton.prefs.transparentTor "Transparent Torification (Requires custom transproxy or Tor router)">
